@@ -1,0 +1,5 @@
+<map id="AbstractItemInputOutputBase::localPosition" name="AbstractItemInputOutputBase::localPosition">
+<area shape="rect" id="node2" href="$classAbstractItemInputOutputBase.html#aed3e2b9d624c466d29bc06f03024b9f6" title="Returns the scene position of this object. " alt="" coords="268,23,483,65"/>
+<area shape="rect" id="node3" href="$classItemInput.html#a32e8e6913f157efeda3bbba6b323db13" title="Returns the scene position of this object. " alt="" coords="537,5,719,32"/>
+<area shape="rect" id="node4" href="$classItemOutput.html#a9cc4a2a2006a454d991b7be51795d30e" title="Returns the scene position of this object. " alt="" coords="531,56,725,83"/>
+</map>

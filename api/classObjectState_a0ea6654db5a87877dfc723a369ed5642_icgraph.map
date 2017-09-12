@@ -1,0 +1,4 @@
+<map id="ObjectState::postInit" name="ObjectState::postInit">
+<area shape="rect" id="node2" href="$classStartupHelperPrivate.html#a50178d10f70947ea877287a8165bab7f" title="Creates all Singletons and calls init() on Components in the correct order The function ensures that ..." alt="" coords="208,5,367,47"/>
+<area shape="rect" id="node3" href="$classStartupHelper.html#a57546535369966b0e86a9075384c864e" title="This function does nothing. But you can call it if you want to make sure that this translation unit i..." alt="" coords="415,5,609,47"/>
+</map>

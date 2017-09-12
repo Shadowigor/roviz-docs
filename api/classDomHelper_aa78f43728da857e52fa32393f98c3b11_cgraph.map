@@ -1,0 +1,4 @@
+<map id="DomHelper::loadVariant" name="DomHelper::loadVariant">
+<area shape="rect" id="node2" href="$classDomHelper.html#a9ee66040f3878329632bc15b0c4c9fd0" title="Loads variant from element and returns true on success, false otherwise. " alt="" coords="257,5,435,32"/>
+<area shape="rect" id="node3" href="$classDomHelper.html#ae379d6c24620e54f52882a182b0d9331" title="Loads all property elements from container and sets them in object. Returns true if successful..." alt="" coords="232,56,460,83"/>
+</map>

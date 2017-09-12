@@ -1,0 +1,8 @@
+<map id="ItemInput::disconnectOutput" name="ItemInput::disconnectOutput">
+<area shape="rect" id="node2" href="$classAbstractItem.html#a307530ecee5a0d0988b9656daca6d5de" title="Removes an input from this item. " alt="" coords="271,5,435,32"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#ae9c0cab8866beef785905c8cda641405" title="Remove all the inputs from this item. " alt="" coords="260,56,447,83"/>
+<area shape="rect" id="node4" href="$classAbstractItem.html#ac2d4f5fc5dcb6e35d2c6c815ebd90725" title="Disconnects all connections from/to the item. " alt="" coords="495,74,679,115"/>
+<area shape="rect" id="node5" href="$classAbstractItem.html#ac850ae4d246469e45d492bfcdd8e5d9c" title="AbstractItem::description" alt="" coords="975,81,1161,108"/>
+<area shape="rect" id="node7" href="$classItemScene.html#a7be44ddba4c788e230ac41d5680ae82b" title="Creates a template using the currently selected items. " alt="" coords="727,107,927,133"/>
+<area shape="rect" id="node6" href="$classAbstractItem.html#a22ad99fcce341318e27b5b094a973261" title="Set the description of the item. " alt="" coords="1209,81,1417,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Image" name="Image">
+<area shape="rect" id="node2" href="$classStreamObject.html" title="Base class of all objects that can be transported with a stream. " alt="" coords="5,183,152,305"/>
+<area shape="rect" id="node3" href="$classImagePrivate.html" title="Private part of the Image class. " alt="" coords="176,147,323,341"/>
+<area shape="rect" id="node4" href="$classStreamObjectPrivate.html" title="Private part of the StreamObject class. " alt="" coords="153,5,346,97"/>
+</map>

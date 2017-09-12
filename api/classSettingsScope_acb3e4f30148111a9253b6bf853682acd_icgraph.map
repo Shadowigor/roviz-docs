@@ -1,0 +1,11 @@
+<map id="SettingsScope::scopeChanged" name="SettingsScope::scopeChanged">
+<area shape="rect" id="node2" href="$classSettingsScope.html#a101c008105116a10971321070abda495" title="Sets the setting identified by key to value. " alt="" coords="281,56,459,83"/>
+<area shape="rect" id="node7" href="$classSettingsScope.html#a8bef894fe9bdf95608630b3493fe83f4" title="Sets the name associated with this settings scope to name. " alt="" coords="279,107,461,133"/>
+<area shape="rect" id="node8" href="$classAbstractItem.html#a69a268e6ec65a3b5b84e1327c3f52fd5" title="Constructs an AbstractItem with the name typeName. " alt="" coords="271,157,469,184"/>
+<area shape="rect" id="node9" href="$classAbstractProject.html#a08fbc38691b7e0ff5a59de8643af0e04" title="Initialize the project properties (e.g. settings scope) and connect them. " alt="" coords="295,208,445,235"/>
+<area shape="rect" id="node10" href="$classAbstractWorkspace.html#a5cb1b63fdeeb98aeca44a97fb66d956a" title="Set the workspace properties. The properties will be read from domDocument. " alt="" coords="281,259,459,301"/>
+<area shape="rect" id="node3" href="$classSettingsScope.html#ad9b8a842903571b4994a31c564daa8e9" title="Loads persisted settings scope from given DOM element parent. " alt="" coords="523,5,673,32"/>
+<area shape="rect" id="node5" href="$classConfigImplDev.html#af657a15f1b610b27ad7d17bbc508cc82" title="Get the value of the config. " alt="" coords="517,56,679,83"/>
+<area shape="rect" id="node6" href="$classTrimImplDev.html#aa05c22521d5e665c08d29d2680602f28" title="TrimImplDev::value" alt="" coords="524,107,672,133"/>
+<area shape="rect" id="node4" href="$classSettingsScope.html#af2397ef052f132643e9cd8be8e368c0b" title="This function has to be called once at start in order to initialize global and application settings s..." alt="" coords="727,5,869,32"/>
+</map>

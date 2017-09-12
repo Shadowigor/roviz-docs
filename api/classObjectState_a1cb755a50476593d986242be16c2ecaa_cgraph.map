@@ -1,0 +1,3 @@
+<map id="ObjectState::preDestroy" name="ObjectState::preDestroy">
+<area shape="rect" id="node2" href="$classAbstractSingleton.html#a8e747c47cb10a18ec01658a8a0de90bd" title="preDestroy will be called before any of the components and singletons will be destructed/deinitailize..." alt="" coords="232,5,377,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PluginManager" name="PluginManager">
+<area shape="rect" id="node3" href="$classSingleton.html" title="{Singleton\&lt; PluginManager \&gt;\n||+ Singleton()\l+ ~Singleton()\l+ instance()\l}" alt="" coords="105,175,314,281"/>
+<area shape="rect" id="node4" href="$classAbstractSingleton.html" title="The AbstractSingleton class defines functions that every singleton must implement Every Singleton mus..." alt="" coords="33,5,207,127"/>
+<area shape="rect" id="node5" href="$classSingletonStorage.html" title="The SingletonStorage class is a helper to provide a unique, once&#45;per&#45;application, shared&#45;across&#45;all&#45;p..." alt="" coords="231,20,366,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="RovizItem::stop" name="RovizItem::stop">
+<area shape="rect" id="node2" href="$classRovizItem.html#a59909df8a38fdde18509514c1cc4f43d" title="Called after the thread stopped. " alt="" coords="176,56,323,83"/>
+<area shape="rect" id="node3" href="$classRovizItem.html#ad3f481ecaed250eeef2774b69890891c" title="Wake the possibly waiting thread. " alt="" coords="378,5,509,32"/>
+<area shape="rect" id="node4" href="$classRovizItem.html#a370512cfe690c6312731a229863d1eaf" title="Called, when the thread is about to start. " alt="" coords="371,56,516,83"/>
+<area shape="rect" id="node5" href="$classRovizItem.html#a1b918d10740f07c0fd4413613dc8d966" title="Main thread of the item. " alt="" coords="375,107,512,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="FileHelper::relativeToAbsoluteFilePath" name="FileHelper::relativeToAbsoluteFilePath">
+<area shape="rect" id="node2" href="$classFileWorkspace.html#a54da1df1f31d8c9558a0eb55c100200a" title="Initialize the Workspace and set isValid flag. This function must be called, otherwise the workspace ..." alt="" coords="281,5,425,32"/>
+<area shape="rect" id="node3" href="$classFileWorkspace.html#a6f93f0ac1c2d385a1cfd8eb3e8a05ba9" title="Update the workspace after property changes. " alt="" coords="269,56,437,83"/>
+</map>

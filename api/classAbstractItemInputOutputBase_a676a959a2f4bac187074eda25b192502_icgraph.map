@@ -1,0 +1,5 @@
+<map id="AbstractItemInputOutputBase::owner" name="AbstractItemInputOutputBase::owner">
+<area shape="rect" id="node2" href="$classAbstractItem.html#a6cb5fa06b94e5602edfeeb748a65cd61" title="Set the data of a given output. " alt="" coords="268,13,477,39"/>
+<area shape="rect" id="node4" href="$classItemOriginVisualizer.html#a64238084bdd28642d04ce9c65462ac5b" title="ItemOriginVisualizer\l::setItem" alt="" coords="295,64,450,105"/>
+<area shape="rect" id="node3" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="525,5,727,47"/>
+</map>

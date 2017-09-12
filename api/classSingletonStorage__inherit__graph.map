@@ -1,0 +1,13 @@
+<map id="SingletonStorage" name="SingletonStorage">
+<area shape="rect" id="node2" href="$classSingleton.html" title="The Singleton Template figures as baseclass for all Singletons. It provides a instance() functions wh..." alt="" coords="5,153,127,259"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="{Singleton\&lt; GuiManager \&gt;\n||+ Singleton()\l+ ~Singleton()\l+ instance()\l}" alt="" coords="151,153,341,259"/>
+<area shape="rect" id="node5" href="$classSingleton.html" title="{Singleton\&lt; Item_Manager \&gt;\n||+ Singleton()\l+ ~Singleton()\l+ instance()\l}" alt="" coords="365,153,572,259"/>
+<area shape="rect" id="node7" href="$classSingleton.html" title="{Singleton\&lt; Livedoc \&gt;\n||+ Singleton()\l+ ~Singleton()\l+ instance()\l}" alt="" coords="597,153,759,259"/>
+<area shape="rect" id="node9" href="$classSingleton.html" title="{Singleton\&lt; PluginManager \&gt;\n||+ Singleton()\l+ ~Singleton()\l+ instance()\l}" alt="" coords="784,153,993,259"/>
+<area shape="rect" id="node11" href="$classSingleton.html" title="{Singleton\&lt; ProjectManager\lGui \&gt;\n||+ Singleton()\l+ ~Singleton()\l+ instance()\l}" alt="" coords="1024,145,1223,267"/>
+<area shape="rect" id="node4" href="$classGuiManager.html" title="The GuiManager class handels widgets and actions on the main window. " alt="" coords="168,315,324,568"/>
+<area shape="rect" id="node6" href="$classItem__Manager.html" title="{Item_Manager\n||+ Item_Manager()\l+ ~Item_Manager()\l+ itemTemplatesWidget()\l# postInit()\l# preDestroy()\l}" alt="" coords="373,373,564,509"/>
+<area shape="rect" id="node8" href="$classLivedoc.html" title="{Livedoc\n||+ Livedoc()\l+ ~Livedoc()\l+ add_provider()\l+ remove_provider()\l+ get_providers()\l+ get_doc()\l+ navigate()\l+ show()\l+ hide()\l+ toggle()\l# postInit()\l# preDestroy()\l}" alt="" coords="599,322,757,561"/>
+<area shape="rect" id="node10" href="$classPluginManager.html" title="The PluginManager class. " alt="" coords="783,322,989,561"/>
+<area shape="rect" id="node12" href="$classProjectManagerGui.html" title="{ProjectManagerGui\n||+ ProjectManagerGui()\l+ ~ProjectManagerGui()\l+ start()\l+ showSelectWorkspaceDialog()\l+ openWorkspace()\l+ lastError()\l+ projectManager()\l+ abstractWorkspaceGuiClass()\l# postInit()\l# preDestroy()\l}" alt="" coords="1013,337,1247,546"/>
+</map>

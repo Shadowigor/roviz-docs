@@ -1,0 +1,4 @@
+<map id="AbstractWorkspace::description" name="AbstractWorkspace::description">
+<area shape="rect" id="node2" href="$classAbstractWorkspace.html#a8cc0925995f23d35f17c9f5f352fe167" title="Set the workspace description. " alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node3" href="$classAbstractWorkspace.html#a5cb1b63fdeeb98aeca44a97fb66d956a" title="Set the workspace properties. The properties will be read from domDocument. " alt="" coords="411,5,589,47"/>
+</map>

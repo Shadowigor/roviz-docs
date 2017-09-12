@@ -1,0 +1,4 @@
+<map id="DomHelper::loadUserProperties" name="DomHelper::loadUserProperties">
+<area shape="rect" id="node2" href="$classDomHelper.html#aa78f43728da857e52fa32393f98c3b11" title="Loads variant from element and returns true on success, false otherwise. " alt="" coords="281,5,460,32"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#aed5d0842924522bed01935f276151061" title="Loads persistent settings for this item from given XML element. " alt="" coords="299,56,442,83"/>
+</map>

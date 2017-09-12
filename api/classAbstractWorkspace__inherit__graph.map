@@ -1,0 +1,4 @@
+<map id="AbstractWorkspace" name="AbstractWorkspace">
+<area shape="rect" id="node3" href="$classFileWorkspace.html" title="{FileWorkspace\n|+ filePath\l|+ FileWorkspace()\l+ ~FileWorkspace()\l+ compare()\l+ deleteWorkspace()\l+ deleteProject()\l+ save()\l+ test()\l+ init()\l+ update()\l+ setOpen()\l+ setFilePath()\l+ setFileEditMode()\l+ filePath()\l+ path()\l+ fileName()\l+ createFileWorkspaceFromFile()\l}" alt="" coords="5,491,240,788"/>
+<area shape="rect" id="node4" href="$classSqlWorkspace.html" title="{SqlWorkspace\n|+ port\l+ user\l+ password\l+ host\l+ database\l|+ SqlWorkspace()\l+ ~SqlWorkspace()\l+ init()\l+ update()\l+ compare()\l+ save()\l+ test()\l+ deleteProject()\l+ deleteWorkspace()\l+ port()\land 11 more...\l}" alt="" coords="265,498,423,781"/>
+</map>

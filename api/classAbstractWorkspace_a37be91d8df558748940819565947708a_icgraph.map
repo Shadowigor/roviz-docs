@@ -1,0 +1,7 @@
+<map id="AbstractWorkspace::project" name="AbstractWorkspace::project">
+<area shape="rect" id="node2" href="$classAbstractWorkspace.html#a55d55c768ab4c4c51411f99705a32609" title="AbstractWorkspace::\lprojectNames" alt="" coords="234,5,389,47"/>
+<area shape="rect" id="node3" href="$classAbstractWorkspace.html#a233fa2ce8d165828a2a0655b887ef301" title="Save all projects in workspace which are changed by extern. " alt="" coords="209,71,413,112"/>
+<area shape="rect" id="node4" href="$classAbstractWorkspace.html#ad3844d01d06a6ea41425702a3ebe45d4" title="Reset all projects in workspace which are changed by extern. " alt="" coords="208,136,415,177"/>
+<area shape="rect" id="node5" href="$classAbstractWorkspace.html#a90fffcb59b82e1cf5a8704a1953f995b" title="Save all projects in workspace. " alt="" coords="234,201,389,243"/>
+<area shape="rect" id="node6" href="$classAbstractWorkspace.html#ab5115639a04dd78cef2a23eb1a0770ea" title="Reset all projects in workspace. Reload the complete project structure from xml. All settings..." alt="" coords="234,267,389,308"/>
+</map>

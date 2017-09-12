@@ -1,0 +1,5 @@
+<map id="AbstractSingleton::preDestroy" name="AbstractSingleton::preDestroy">
+<area shape="rect" id="node2" href="$classObjectState.html#a1cb755a50476593d986242be16c2ecaa" title="Tries to call preDestroy() on the represented singleton. Does nothing if the represented class is a c..." alt="" coords="199,13,377,39"/>
+<area shape="rect" id="node3" href="$classStartupHelperPrivate.html#a93b4fd68a5bac603086bde314d424da1" title="Deletes all Singleton Instances and calls deinit() on all Components The Singleton Instances and Comp..." alt="" coords="425,5,584,47"/>
+<area shape="rect" id="node4" href="$classStartupHelper.html#a57546535369966b0e86a9075384c864e" title="This function does nothing. But you can call it if you want to make sure that this translation unit i..." alt="" coords="632,5,827,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AbstractItem::settingsScope" name="AbstractItem::settingsScope">
+<area shape="rect" id="node2" href="$classAbstractItem.html#af8ea06af550462d7d95eadc238f82d0b" title="Saves persistent settings for this item into the given XML element. " alt="" coords="307,5,453,32"/>
+<area shape="rect" id="node3" href="$classRovizItemBaseDev.html#a8d74eb8d4e94a8ce5e349273a595eb95" title="RovizItemBaseDev::RovizItem\lBaseDev" alt="" coords="271,57,489,98"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDev.html#a32a3659383fd67dac57d33c25913f3ca" title="Opens the item in the SharedWindow. " alt="" coords="259,122,501,163"/>
+</map>

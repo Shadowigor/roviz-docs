@@ -1,0 +1,7 @@
+<map id="FileProject::setLoaded" name="FileProject::setLoaded">
+<area shape="rect" id="node2" href="$classAbstractProject.html#a5f38e571e2a4b9e7eb8f885ce0adf771" title="Set the project loaded property. This indicates, that the project is currently loaded by the related ..." alt="" coords="231,5,427,32"/>
+<area shape="rect" id="node4" href="$classFileHelper.html#a8e898f04d5981788d1d8415a63fb8caa" title="FileHelper::domDocumentFrom\lXMLFile" alt="" coords="217,57,440,98"/>
+<area shape="rect" id="node3" href="$classAbstractProject.html#afb70e7ae5a3dc05a147a5ea8146ac6a8" title="AbstractProject::isLoaded" alt="" coords="500,5,687,32"/>
+<area shape="rect" id="node5" href="$classFileHelper.html#a2767fbd48b96831a6eea846a94cc6740" title="FileHelper::fileExists" alt="" coords="516,60,671,87"/>
+<area shape="rect" id="node6" href="$classFileHelper.html#a9192d8383598f057791e08aa962574b2" title="FileHelper::testFileOpenMode" alt="" coords="488,111,699,137"/>
+</map>

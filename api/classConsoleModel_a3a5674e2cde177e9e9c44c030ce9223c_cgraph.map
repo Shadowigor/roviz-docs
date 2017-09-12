@@ -1,0 +1,9 @@
+<map id="ConsoleModel::appendMessage" name="ConsoleModel::appendMessage">
+<area shape="rect" id="node2" href="$classConsoleMessage.html#ae324180ffd44977ae4914a7043d394df" title="Returns the foreground color for the passed message type. (e.g green for debug, red for error) ..." alt="" coords="284,5,475,47"/>
+<area shape="rect" id="node3" href="$classConsoleMessage.html#abfe3e7dd6eb3e06fdaef968fc964c262" title="The message type (debug, info, error,...) " alt="" coords="527,42,695,69"/>
+<area shape="rect" id="node4" href="$classConsoleMessage.html#a328d72887cd22dafdc8253a0dc3cb5a8" title="The content of the message (= the message itself) " alt="" coords="280,122,479,149"/>
+<area shape="rect" id="node5" href="$classConsoleMessage.html#a40d0baeb853993fcbb92ce979171b9d8" title="The message category. " alt="" coords="281,173,477,199"/>
+<area shape="rect" id="node6" href="$classConsoleMessage.html#a104cca5ed94bbf4a6ec577c98fe21baa" title="Th message location (file, line, function) " alt="" coords="284,223,475,250"/>
+<area shape="rect" id="node7" href="$classConsoleMessage.html#ae5506528c784983dedc043173e20d30e" title="The time when the message was created. " alt="" coords="295,274,464,301"/>
+<area shape="rect" id="node8" href="$classConsoleMessage.html#ae532e8a6cf8da8dd97cf2898bc6a58bd" title="The thread from which the message is originating. " alt="" coords="283,325,476,351"/>
+</map>

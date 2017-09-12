@@ -1,0 +1,6 @@
+<map id="FileHelper::lastError" name="FileHelper::lastError">
+<area shape="rect" id="node2" href="$classFileProject.html#a1a55dcaf78aa253869e1f0864b11ec0d" title="Reload the complete project structure from xml. All settings, which are not saved will be discarded a..." alt="" coords="256,5,387,32"/>
+<area shape="rect" id="node3" href="$classFileWorkspace.html#a09f1a23dbd4a31d7337c20e3ace9e0e5" title="Save workspace with all settings. " alt="" coords="244,56,399,83"/>
+<area shape="rect" id="node4" href="$classFileWorkspace.html#a8a38735d6ff63fca0e4540485be869fd" title="Delete a project and remove it from workspace. " alt="" coords="217,107,426,133"/>
+<area shape="rect" id="node5" href="$classFileWorkspace.html#ad225190f2cd611452ccdd0258d318d9e" title="Delete workspace. The function deletes this workspace and all included projects, if the deleteProject..." alt="" coords="204,157,439,184"/>
+</map>

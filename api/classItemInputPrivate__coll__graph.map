@@ -1,0 +1,5 @@
+<map id="ItemInputPrivate" name="ItemInputPrivate">
+<area shape="rect" id="node2" href="$classItemOutput.html" title="The ItemOutput class represents an output that belongs to an item. " alt="" coords="5,420,163,629"/>
+<area shape="rect" id="node3" href="$classAbstractItemInputOutputBase.html" title="The AbstractItemInputOutputBase class provides common functionality for the ItemInput and ItemOutput ..." alt="" coords="49,132,300,371"/>
+<area shape="rect" id="node5" href="$classItemInput.html" title="The ItemInput class represents an input that belongs to an item. " alt="" coords="187,435,349,615"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AbstractItem::save" name="AbstractItem::save">
+<area shape="rect" id="node2" href="$classDomHelper.html#a04028e555cb2fb4975205a1ddd848297" title="Saves all properties of object that are marked as USER property to container and returns true if succ..." alt="" coords="199,5,429,32"/>
+<area shape="rect" id="node4" href="$classAbstractItem.html#a812d85337dd891a20384ba8af3fba2ed" title="Returns a pointer to the settings scope associated with this item. " alt="" coords="211,56,417,83"/>
+<area shape="rect" id="node3" href="$classDomHelper.html#ada5123ac7d985c8acd7266dc106d0a3c" title="Creates a new DOM element tagName, saves variant to it and returns the created element. " alt="" coords="477,5,659,32"/>
+</map>

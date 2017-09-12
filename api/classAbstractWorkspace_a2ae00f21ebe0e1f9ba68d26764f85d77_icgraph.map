@@ -1,0 +1,6 @@
+<map id="AbstractWorkspace::workspaceDomDocument" name="AbstractWorkspace::workspaceDomDocument">
+<area shape="rect" id="node2" href="$classAbstractWorkspace.html#a5cb1b63fdeeb98aeca44a97fb66d956a" title="Set the workspace properties. The properties will be read from domDocument. " alt="" coords="543,73,721,114"/>
+<area shape="rect" id="node3" href="$classAbstractWorkspace.html#a930dc290efa8068ea78b035f9ecbe51f" title="Set the workspace dom document. The domdocument hold all information about the workspace (e..." alt="" coords="264,37,475,78"/>
+<area shape="rect" id="node4" href="$classAbstractWorkspace.html#a952d4f84fc732d27cc3705889e13bbc0" title="This static function creates a clean workspace DomDocument. " alt="" coords="244,102,495,143"/>
+<area shape="rect" id="node5" href="$classAbstractWorkspace.html#a5971ff01cd68caf9743e2361dd8ee54f" title="Validate a workspace DomDocument. " alt="" coords="247,167,491,209"/>
+</map>

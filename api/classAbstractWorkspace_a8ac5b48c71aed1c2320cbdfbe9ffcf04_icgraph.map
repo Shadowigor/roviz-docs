@@ -1,0 +1,4 @@
+<map id="AbstractWorkspace::isDefault" name="AbstractWorkspace::isDefault">
+<area shape="rect" id="node2" href="$classAbstractWorkspace.html#ac461f35e5d3d94a8c7f03af58e8fa40c" title="Set the workspace major version. If the version is not compatible with the application condition the ..." alt="" coords="208,5,405,47"/>
+<area shape="rect" id="node3" href="$classAbstractWorkspace.html#a89f62e47217d1f76c0aa57bbb6a74efe" title="Set workspace as default workspace. On Traviz start this workspace will be loaded directly..." alt="" coords="229,71,384,112"/>
+</map>

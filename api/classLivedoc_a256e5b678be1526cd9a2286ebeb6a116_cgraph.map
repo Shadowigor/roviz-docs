@@ -1,0 +1,5 @@
+<map id="Livedoc::preDestroy" name="Livedoc::preDestroy">
+<area shape="rect" id="node2" href="$classSingleton.html#a653aa7351e551af1bae09d01aa713091" title="Returns the current instance of the singleton. " alt="" coords="217,5,393,47"/>
+<area shape="rect" id="node3" href="$classGuiManager.html#a340c024346628c058affb058157ec74a" title="Access to reference of an action. " alt="" coords="231,71,379,98"/>
+<area shape="rect" id="node4" href="$classInterface__Livedoc__Provider.html#a25613771e335a856bab38fe43344bb61" title="provide_livedoc returns the html content of the requested document or a null&#45;string when no such docu..." alt="" coords="205,123,404,164"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ImageWidget" name="ImageWidget">
+<area shape="rect" id="node3" href="$classStreamWidget.html" title="Base class for all widgets representing a StreamObject. " alt="" coords="97,448,247,599"/>
+<area shape="rect" id="node4" href="$classImage.html" title="A portable image class with smart memory management. " alt="" coords="272,404,408,643"/>
+<area shape="rect" id="node5" href="$classStreamObject.html" title="Base class of all objects that can be transported with a stream. " alt="" coords="213,183,360,305"/>
+<area shape="rect" id="node6" href="$classImagePrivate.html" title="Private part of the Image class. " alt="" coords="384,147,531,341"/>
+<area shape="rect" id="node7" href="$classStreamObjectPrivate.html" title="Private part of the StreamObject class. " alt="" coords="361,5,554,97"/>
+</map>

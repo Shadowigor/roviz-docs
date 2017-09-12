@@ -1,0 +1,6 @@
+<map id="SettingsScope::setValue" name="SettingsScope::setValue">
+<area shape="rect" id="node2" href="$classSettingsScope.html#ad9b8a842903571b4994a31c564daa8e9" title="Loads persisted settings scope from given DOM element parent. " alt="" coords="237,5,388,32"/>
+<area shape="rect" id="node4" href="$classConfigImplDev.html#af657a15f1b610b27ad7d17bbc508cc82" title="Get the value of the config. " alt="" coords="232,56,393,83"/>
+<area shape="rect" id="node5" href="$classTrimImplDev.html#aa05c22521d5e665c08d29d2680602f28" title="TrimImplDev::value" alt="" coords="239,107,387,133"/>
+<area shape="rect" id="node3" href="$classSettingsScope.html#af2397ef052f132643e9cd8be8e368c0b" title="This function has to be called once at start in order to initialize global and application settings s..." alt="" coords="441,5,584,32"/>
+</map>

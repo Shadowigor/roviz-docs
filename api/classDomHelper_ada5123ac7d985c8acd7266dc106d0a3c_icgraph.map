@@ -1,0 +1,8 @@
+<map id="DomHelper::saveVariant" name="DomHelper::saveVariant">
+<area shape="rect" id="node2" href="$classDomHelper.html#ae70a4409baa260e66d10e24e9e7c4e7f" title="Returns true, if variant was successfully saved to element; false otherwise. " alt="" coords="259,5,441,32"/>
+<area shape="rect" id="node3" href="$classDomHelper.html#aa162047648bb65c0ca03cea65afb0966" title="Creates a new DOM element with tag name DomHelper::PropertyTag, saves the object&#39;s property named nam..." alt="" coords="255,56,445,83"/>
+<area shape="rect" id="node4" href="$classDomHelper.html#a04028e555cb2fb4975205a1ddd848297" title="Saves all properties of object that are marked as USER property to container and returns true if succ..." alt="" coords="235,107,465,133"/>
+<area shape="rect" id="node6" href="$classSettingsScope.html#a2555e584716df3d14505d942feae92fa" title="Persists this settings scope to given DOM element parent. " alt="" coords="273,157,427,184"/>
+<area shape="rect" id="node5" href="$classAbstractItem.html#af8ea06af550462d7d95eadc238f82d0b" title="Saves persistent settings for this item into the given XML element. " alt="" coords="520,107,665,133"/>
+<area shape="rect" id="node7" href="$classSettingsScope.html#ad5939ea42522bf50d3b17069aa09cffb" title="This function has to be called once at application end in order to save the global and application se..." alt="" coords="513,157,672,184"/>
+</map>

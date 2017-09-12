@@ -1,0 +1,53 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAbstractSingleton.html" title="The AbstractSingleton class defines functions that every singleton must implement Every Singleton mus..." alt="" coords="5,123,143,149"/>
+<area shape="rect" id="node2" href="$classSingleton.html" title="The Singleton Template figures as baseclass for all Singletons. It provides a instance() functions wh..." alt="" coords="235,173,356,200"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Singleton\&lt; GuiManager \&gt;" alt="" coords="200,123,391,149"/>
+<area shape="rect" id="node5" href="$classSingleton.html" title="Singleton\&lt; Item_Manager \&gt;" alt="" coords="192,224,399,251"/>
+<area shape="rect" id="node7" href="$classSingleton.html" title="Singleton\&lt; Livedoc \&gt;" alt="" coords="214,275,377,301"/>
+<area shape="rect" id="node9" href="$classSingleton.html" title="Singleton\&lt; PluginManager \&gt;" alt="" coords="191,5,400,32"/>
+<area shape="rect" id="node11" href="$classSingleton.html" title="Singleton\&lt; ProjectManager\lGui \&gt;" alt="" coords="196,57,395,98"/>
+<area shape="rect" id="node4" href="$classGuiManager.html" title="The GuiManager class handels widgets and actions on the main window. " alt="" coords="499,135,599,161"/>
+<area shape="rect" id="node6" href="$classItem__Manager.html" title="Item_Manager" alt="" coords="491,211,606,237"/>
+<area shape="rect" id="node8" href="$classLivedoc.html" title="Livedoc" alt="" coords="513,261,585,288"/>
+<area shape="rect" id="node10" href="$classPluginManager.html" title="The PluginManager class. " alt="" coords="489,9,608,36"/>
+<area shape="rect" id="node12" href="$classProjectManagerGui.html" title="ProjectManagerGui" alt="" coords="476,73,621,100"/>
+<area shape="rect" id="node14" href="$classProjectGui.html" title="ProjectGui" alt="" coords="504,312,593,339"/>
+<area shape="rect" id="node16" href="$classAbstractProject.html" title="AbstractProject" alt="" coords="488,768,609,795"/>
+<area shape="rect" id="node18" href="$classAbstractWorkspace.html" title="AbstractWorkspace" alt="" coords="475,819,622,845"/>
+<area shape="rect" id="node21" href="$classAbstractWorkspaceGui.html" title="AbstractWorkspaceGui" alt="" coords="464,869,633,896"/>
+<area shape="rect" id="node24" href="$classDatabaseHolder.html" title="DatabaseHolder" alt="" coords="485,920,612,947"/>
+<area shape="rect" id="node25" href="$classGuiManagerPrivate.html" title="GuiManagerPrivate" alt="" coords="475,971,622,997"/>
+<area shape="rect" id="node26" href="$classInterface__Livedoc__Provider.html" title="Interface_Livedoc_Provider" alt="" coords="449,1021,648,1048"/>
+<area shape="rect" id="node28" href="$classInterfaceFactory.html" title="The plugin factory interface. You need to have one factory per plugin container. " alt="" coords="485,1224,612,1251"/>
+<area shape="rect" id="node41" href="$classItemOriginVisualizerPrivate.html" title="ItemOriginVisualizerPrivate" alt="" coords="448,1275,649,1301"/>
+<area shape="rect" id="node42" href="$classPluginManagerPrivate.html" title="PluginManagerPrivate" alt="" coords="467,363,631,389"/>
+<area shape="rect" id="node43" href="$classPluginMetaData.html" title="PluginMetaData" alt="" coords="486,413,611,440"/>
+<area shape="rect" id="node44" href="$classProjectManager.html" title="ProjectManager" alt="" coords="487,464,610,491"/>
+<area shape="rect" id="node45" href="$classRovizItemBaseDevPrivate.html" title="Private part of RovizItemDevBase. " alt="" coords="453,515,644,541"/>
+<area shape="rect" id="node46" href="$classSettingsScope.html" title="The SettingsScope class acts as a container for scoped settings. " alt="" coords="491,565,606,592"/>
+<area shape="rect" id="node47" href="$classSomeTransporter.html" title="SomeTransporter" alt="" coords="483,616,615,643"/>
+<area shape="rect" id="node48" href="$classStartupInit.html" title="This class assigns each stream a color so they are easily distinguishable. " alt="" coords="503,667,594,693"/>
+<area shape="rect" id="node49" href="$classtest__ItemScene.html" title="test_ItemScene" alt="" coords="487,717,610,744"/>
+<area shape="rect" id="node50" href="$classTrimImplDev.html" title="roviz backend for a Trim " alt="" coords="496,1325,601,1352"/>
+<area shape="rect" id="node17" href="$classFileProject.html" title="FileProject" alt="" coords="744,717,833,744"/>
+<area shape="rect" id="node19" href="$classFileWorkspace.html" title="FileWorkspace" alt="" coords="731,768,846,795"/>
+<area shape="rect" id="node20" href="$classSqlWorkspace.html" title="SqlWorkspace" alt="" coords="732,819,845,845"/>
+<area shape="rect" id="node22" href="$classFileWorkspaceGui.html" title="FileWorkspaceGui" alt="" coords="720,869,857,896"/>
+<area shape="rect" id="node23" href="$classSqlWorkspaceGui.html" title="SqlWorkspaceGui" alt="" coords="721,920,856,947"/>
+<area shape="rect" id="node27" href="$classLivedoc__Home__Provider.html" title="Livedoc_Home_Provider" alt="" coords="699,971,878,997"/>
+<area shape="rect" id="node29" href="$classFactoryCanny.html" title="FactoryCanny" alt="" coords="733,1325,844,1352"/>
+<area shape="rect" id="node30" href="$classFactoryCvCamera.html" title="FactoryCvCamera" alt="" coords="720,1376,857,1403"/>
+<area shape="rect" id="node31" href="$classFactoryFrameDelayer.html" title="FactoryFrameDelayer" alt="" coords="709,1427,869,1453"/>
+<area shape="rect" id="node32" href="$classFactoryGaussianBlur.html" title="FactoryGaussianBlur" alt="" coords="711,1477,866,1504"/>
+<area shape="rect" id="node33" href="$classFactoryGrayConv.html" title="FactoryGrayConv" alt="" coords="722,1528,855,1555"/>
+<area shape="rect" id="node34" href="$classFactoryHarrisCorner.html" title="FactoryHarrisCorner" alt="" coords="713,1579,864,1605"/>
+<area shape="rect" id="node35" href="$classFactorySobel.html" title="FactorySobel" alt="" coords="736,1021,841,1048"/>
+<area shape="rect" id="node36" href="$classFactorySubtractor.html" title="FactorySubtractor" alt="" coords="721,1072,857,1099"/>
+<area shape="rect" id="node37" href="$classFactoryTEMPLATE__CLASS.html" title="FactoryTEMPLATE_CLASS" alt="" coords="697,1123,880,1149"/>
+<area shape="rect" id="node38" href="$classFactoryTIG.html" title="FactoryTIG" alt="" coords="743,1173,834,1200"/>
+<area shape="rect" id="node39" href="$classFactoryTPG.html" title="FactoryTPG" alt="" coords="741,1224,836,1251"/>
+<area shape="rect" id="node40" href="$classFactoryTVG.html" title="FactoryTVG" alt="" coords="741,1275,837,1301"/>
+<area shape="rect" id="node51" href="$classSingletonStorage.html" title="The SingletonStorage class is a helper to provide a unique, once&#45;per&#45;application, shared&#45;across&#45;all&#45;p..." alt="" coords="7,173,141,200"/>
+<area shape="rect" id="node52" href="$classTrimImpl.html" title="The interface of a Trim implementation. " alt="" coords="256,1351,335,1377"/>
+<area shape="rect" id="node53" href="$classTrimImplCmdline.html" title="Trim implementation for the Cmdline backend. " alt="" coords="482,1376,615,1403"/>
+</map>

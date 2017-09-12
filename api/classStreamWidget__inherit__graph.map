@@ -1,0 +1,4 @@
+<map id="StreamWidget" name="StreamWidget">
+<area shape="rect" id="node2" href="$classImageWidget.html" title="A widget to show images. " alt="" coords="5,204,160,399"/>
+<area shape="rect" id="node3" href="$classSparseWidget.html" title="A widget to show sparse data. " alt="" coords="14,447,151,671"/>
+</map>

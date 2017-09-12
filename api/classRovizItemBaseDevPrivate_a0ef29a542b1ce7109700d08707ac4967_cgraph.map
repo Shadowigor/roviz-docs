@@ -1,0 +1,7 @@
+<map id="RovizItemBaseDevPrivate::parentScopeChanged" name="RovizItemBaseDevPrivate::parentScopeChanged">
+<area shape="rect" id="node2" href="$classSharedWindow.html#a5efa45f7f68b5782825dbe2a9fcf975b" title="Get the SharedWindow instance of a certain project. " alt="" coords="257,5,438,32"/>
+<area shape="rect" id="node3" href="$classSharedWindow.html#a78045b522aa4bbce59c1b8862ee6f213" title="Remove an item from the shared window. " alt="" coords="244,56,451,83"/>
+<area shape="rect" id="node5" href="$classSettingsScope.html#af5fcf169a754be0bb8e7451deb9fb77f" title="Returns the parent setting scope or NULL, if this settings scope has no parent settings scope..." alt="" coords="246,107,449,133"/>
+<area shape="rect" id="node6" href="$classSharedWindow.html#abe7a2e18922239a3ce65f80b8f24aa21" title="Loads the config (if not already done) and shows the window. " alt="" coords="270,157,425,184"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDev.html#a799c2211baf42b7bca5df7bad3307054" title="RovizItemBaseDev::widget" alt="" coords="499,56,695,83"/>
+</map>

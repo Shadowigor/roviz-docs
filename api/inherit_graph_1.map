@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classAbstractItem.html" title="The AbstractItem class is the base class for all items. " alt="" coords="238,81,345,108"/>
+<area shape="rect" id="node6" href="$classAbstractItemInputOutputBase.html" title="The AbstractItemInputOutputBase class provides common functionality for the ItemInput and ItemOutput ..." alt="" coords="184,157,399,184"/>
+<area shape="rect" id="node9" href="$classItem__Connector.html" title="Item_Connector" alt="" coords="229,208,354,235"/>
+<area shape="rect" id="node10" href="$classItemNote.html" title="ItemNote" alt="" coords="250,259,333,285"/>
+<area shape="rect" id="node3" href="$classAbstractWindowItem.html" title="The AbstractWindowItem class provides basic standard functionality for a typical item that uses a win..." alt="" coords="447,5,605,32"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDev.html" title="Base class that binds RovizItem to the itemframework/Qt. " alt="" coords="453,56,599,83"/>
+<area shape="rect" id="node5" href="$classSomeItem.html" title="SomeItem" alt="" coords="481,107,571,133"/>
+<area shape="rect" id="node7" href="$classItemInput.html" title="The ItemInput class represents an input that belongs to an item. " alt="" coords="483,157,569,184"/>
+<area shape="rect" id="node8" href="$classItemOutput.html" title="The ItemOutput class represents an output that belongs to an item. " alt="" coords="478,208,574,235"/>
+</map>

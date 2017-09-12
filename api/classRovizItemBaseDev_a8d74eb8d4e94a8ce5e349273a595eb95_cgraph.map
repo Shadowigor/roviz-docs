@@ -1,0 +1,10 @@
+<map id="RovizItemBaseDev::RovizItemBaseDev" name="RovizItemBaseDev::RovizItemBaseDev">
+<area shape="rect" id="node2" href="$classRovizItemBaseDevPrivate.html#a69b76137051658db0fe7ac99c3d54a3d" title="(Un)collapses all trim sliders " alt="" coords="278,5,469,47"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#a812d85337dd891a20384ba8af3fba2ed" title="Returns a pointer to the settings scope associated with this item. " alt="" coords="271,71,476,98"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDevPrivate.html#a0ef29a542b1ce7109700d08707ac4967" title="Adds the item to the shared window and loads the configs (cannot be done in the constructor, because the SettingsScope is still parentless) " alt="" coords="278,173,469,215"/>
+<area shape="rect" id="node5" href="$classSharedWindow.html#a5efa45f7f68b5782825dbe2a9fcf975b" title="Get the SharedWindow instance of a certain project. " alt="" coords="537,87,718,114"/>
+<area shape="rect" id="node6" href="$classSharedWindow.html#a78045b522aa4bbce59c1b8862ee6f213" title="Remove an item from the shared window. " alt="" coords="524,239,731,266"/>
+<area shape="rect" id="node7" href="$classRovizItemBaseDev.html#a799c2211baf42b7bca5df7bad3307054" title="RovizItemBaseDev::widget" alt="" coords="779,265,975,291"/>
+<area shape="rect" id="node8" href="$classSettingsScope.html#af5fcf169a754be0bb8e7451deb9fb77f" title="Returns the parent setting scope or NULL, if this settings scope has no parent settings scope..." alt="" coords="526,138,729,165"/>
+<area shape="rect" id="node9" href="$classSharedWindow.html#abe7a2e18922239a3ce65f80b8f24aa21" title="Loads the config (if not already done) and shows the window. " alt="" coords="550,189,705,215"/>
+</map>

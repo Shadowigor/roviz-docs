@@ -1,0 +1,15 @@
+<map id="SettingsScope::parentScope" name="SettingsScope::parentScope">
+<area shape="rect" id="node2" href="$classSettingsScope.html#ad933f65b168c155df787142dcb832c5c" title="Destroys the SettingsScope. " alt="" coords="258,5,445,47"/>
+<area shape="rect" id="node3" href="$classSettingsScope.html#a68ec2c7e55bb14df5e85ae6470410302" title="Returns a string identifier for this settings scope. " alt="" coords="265,71,437,98"/>
+<area shape="rect" id="node8" href="$classSettingsScope.html#ad6dee90a2357cebcc92ae8c7fa539cbb" title="Attaches newParent as parent scope. " alt="" coords="260,123,443,164"/>
+<area shape="rect" id="node10" href="$classSettingsScope.html#ae0879a5f88b0c99b066e6afba615a8ce" title="Returns a map with all settings. " alt="" coords="256,213,447,239"/>
+<area shape="rect" id="node11" href="$classRovizItemBaseDev.html#a32a3659383fd67dac57d33c25913f3ca" title="Opens the item in the SharedWindow. " alt="" coords="495,231,737,272"/>
+<area shape="rect" id="node12" href="$classSettingsScopePrivate.html#a517a17f614e4f24ee8e4d546bcbe0a3b" title="SettingsScopePrivate\l::value" alt="" coords="271,315,431,356"/>
+<area shape="rect" id="node13" href="$classRovizItemBaseDevPrivate.html#a0ef29a542b1ce7109700d08707ac4967" title="Adds the item to the shared window and loads the configs (cannot be done in the constructor, because the SettingsScope is still parentless) " alt="" coords="256,380,447,421"/>
+<area shape="rect" id="node4" href="$classSettingsScope.html#ad9b8a842903571b4994a31c564daa8e9" title="Loads persisted settings scope from given DOM element parent. " alt="" coords="541,25,691,51"/>
+<area shape="rect" id="node6" href="$classSettingsScope.html#a2555e584716df3d14505d942feae92fa" title="Persists this settings scope to given DOM element parent. " alt="" coords="539,75,693,102"/>
+<area shape="rect" id="node5" href="$classSettingsScope.html#af2397ef052f132643e9cd8be8e368c0b" title="This function has to be called once at start in order to initialize global and application settings s..." alt="" coords="793,25,936,51"/>
+<area shape="rect" id="node7" href="$classSettingsScope.html#ad5939ea42522bf50d3b17069aa09cffb" title="This function has to be called once at application end in order to save the global and application se..." alt="" coords="785,75,944,102"/>
+<area shape="rect" id="node9" href="$classSettingsScope.html#aed82073aa61a605540f3bf737575b8bd" title="Constructs a new SettingsScope named name with parent setting scope parent. " alt="" coords="509,130,723,157"/>
+<area shape="rect" id="node14" href="$classRovizItemBaseDev.html#a8d74eb8d4e94a8ce5e349273a595eb95" title="RovizItemBaseDev::RovizItem\lBaseDev" alt="" coords="507,380,725,421"/>
+</map>

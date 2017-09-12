@@ -1,0 +1,4 @@
+<map id="AbstractWorkspaceGui" name="AbstractWorkspaceGui">
+<area shape="rect" id="node3" href="$classFileWorkspaceGui.html" title="{FileWorkspaceGui\n||+ FileWorkspaceGui()\l+ ~FileWorkspaceGui()\l+ workspaceTypeName()\l+ dialogNewWorkspace()\l+ dialogLoadWorkspace()\l+ dialogEditWorkspace()\l+ addListWidgetItem()\l+ isTypeFriendly()\l+ removeProject()\l+ deleteProject()\land 7 more...\l}" alt="" coords="5,667,195,891"/>
+<area shape="rect" id="node4" href="$classSqlWorkspaceGui.html" title="{SqlWorkspaceGui\n||+ SqlWorkspaceGui()\l+ addListWidgetItem()\l+ workspaceTypeName()\l+ dialogNewWorkspace()\l+ dialogLoadWorkspace()\l+ dialogEditWorkspace()\l+ isTypeFriendly()\l+ removeProject()\l+ deleteProject()\l+ saveExternChangedProjects()\land 6 more...\l}" alt="" coords="219,667,448,891"/>
+</map>

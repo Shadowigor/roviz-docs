@@ -1,0 +1,16 @@
+<map id="AbstractItem::description" name="AbstractItem::description">
+<area shape="rect" id="node2" href="$classAbstractItem.html#aabe9e59d51a36704fb27b79d04fbeb7e" title="This method is called with an empty QMenu whenever a contextmenu on the current item is requested..." alt="" coords="241,5,439,47"/>
+<area shape="rect" id="node3" href="$classItemScene.html#a85793949d70a01c0d0953c36cd42c3cd" title="Returns all currently selected and copyable items. " alt="" coords="243,71,437,98"/>
+<area shape="rect" id="node4" href="$classAbstractItem.html#ac2d4f5fc5dcb6e35d2c6c815ebd90725" title="Disconnects all connections from/to the item. " alt="" coords="503,115,687,156"/>
+<area shape="rect" id="node10" href="$classItemScene.html#a01138334677a02cf1affb088a18872cc" title="copies the selected items &amp; connections to clipboard " alt="" coords="275,173,405,199"/>
+<area shape="rect" id="node11" href="$classItemScene.html#a7be44ddba4c788e230ac41d5680ae82b" title="Creates a template using the currently selected items. " alt="" coords="240,223,440,250"/>
+<area shape="rect" id="node5" href="$classItemInput.html#a89e89568d462627aabc1eaa02e553f90" title="Disconnects the output this input is connected to, if any. " alt="" coords="1024,85,1231,111"/>
+<area shape="rect" id="node7" href="$classItemOutput.html#a688b8bf6d3ae8eab3dda8f90a287087c" title="Disconnects all connected inputs from this output. " alt="" coords="1020,161,1235,187"/>
+<area shape="rect" id="node8" href="$classAbstractItem.html#ae9c0cab8866beef785905c8cda641405" title="Remove all the inputs from this item. " alt="" coords="768,97,955,123"/>
+<area shape="rect" id="node9" href="$classAbstractItem.html#a3246823c7118197ae6e91dcef5c0d979" title="Remove all the outputs from this item. " alt="" coords="763,198,960,225"/>
+<area shape="rect" id="node6" href="$classItemInput.html#ad771393057f9c40c526797668db05d37" title="ItemInput::isConnected" alt="" coords="1283,85,1456,111"/>
+<area shape="rect" id="node12" href="$classSingleton.html#a653aa7351e551af1bae09d01aa713091" title="Returns the current instance of the singleton. " alt="" coords="500,180,691,221"/>
+<area shape="rect" id="node13" href="$classAbstractItemInputOutputBase.html#a663f03938ee2a9272aacecc36b730273" title="Returns the type of data this object handles. " alt="" coords="488,245,703,287"/>
+<area shape="rect" id="node14" href="$classAbstractItem.html#a593ec5151b784bbe9b19b0833559a67a" title="AbstractItem::connectorStyle" alt="" coords="490,311,701,338"/>
+<area shape="rect" id="node15" href="$classAbstractItem.html#ad1ff8626de10eb197b4604ac41805ce1" title="AbstractItem::connectorHeight" alt="" coords="751,311,972,338"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SettingsScope::value" name="SettingsScope::value">
+<area shape="rect" id="node2" href="$classSettingsScope.html#ad6dee90a2357cebcc92ae8c7fa539cbb" title="Attaches newParent as parent scope. " alt="" coords="212,5,395,47"/>
+<area shape="rect" id="node4" href="$classSettingsScope.html#ad9b8a842903571b4994a31c564daa8e9" title="Loads persisted settings scope from given DOM element parent. " alt="" coords="228,71,379,98"/>
+<area shape="rect" id="node6" href="$classSettingsScopePrivate.html#a517a17f614e4f24ee8e4d546bcbe0a3b" title="SettingsScopePrivate\l::value" alt="" coords="223,123,383,164"/>
+<area shape="rect" id="node7" href="$classConfigImplDev.html#a2dfdf6fd0c460069144b9db06c3effae" title="Load the value of this config from the settings scope. " alt="" coords="227,189,380,215"/>
+<area shape="rect" id="node8" href="$classTrimImplDev.html#aa05c22521d5e665c08d29d2680602f28" title="TrimImplDev::value" alt="" coords="229,239,377,266"/>
+<area shape="rect" id="node3" href="$classSettingsScope.html#aed82073aa61a605540f3bf737575b8bd" title="Constructs a new SettingsScope named name with parent setting scope parent. " alt="" coords="443,13,657,39"/>
+<area shape="rect" id="node5" href="$classSettingsScope.html#af2397ef052f132643e9cd8be8e368c0b" title="This function has to be called once at start in order to initialize global and application settings s..." alt="" coords="479,71,621,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="FileHelper::removeFile" name="FileHelper::removeFile">
+<area shape="rect" id="node2" href="$classFileProject.html#a1fd7f7c1ca36f81d9e92a253647220ce" title="Remove the autosave project xml structure. " alt="" coords="241,5,434,32"/>
+<area shape="rect" id="node3" href="$classFileProject.html#aac23605a1277116f5554430cedeccb9e" title="Information about the autosave project xml structure. " alt="" coords="246,56,429,83"/>
+<area shape="rect" id="node4" href="$classFileWorkspace.html#a8a38735d6ff63fca0e4540485be869fd" title="Delete a project and remove it from workspace. " alt="" coords="233,107,442,133"/>
+<area shape="rect" id="node5" href="$classFileWorkspace.html#ad225190f2cd611452ccdd0258d318d9e" title="Delete workspace. The function deletes this workspace and all included projects, if the deleteProject..." alt="" coords="220,157,455,184"/>
+</map>

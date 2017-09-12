@@ -1,0 +1,4 @@
+<map id="AbstractWorkspaceGui" name="AbstractWorkspaceGui">
+<area shape="rect" id="node3" href="$classProjectManager.html" title="{ProjectManager\n||+ ProjectManager()\l+ ~ProjectManager()\l+ initRecentWorkspaces()\l+ saveRecentWorkspacesSettings()\l+ defaultWorkspace()\l+ isDefaultWorkspaceSet()\l+ currentWorkspace()\l+ setCurrentWorkspace()\l+ recentWorkspaces()\l+ setRecentWorkspaces()\land 6 more...\l+ recentWorkspacesDomTemplate()\l}" alt="" coords="33,132,290,371"/>
+<area shape="rect" id="node4" href="$classProjectListDockWidget.html" title="{ProjectListDockWidget\n||+ ProjectListDockWidget()\l+ ~ProjectListDockWidget()\l+ projectGuis()\l+ dirtyProjects()\l+ listWidgetItems()\l+ addProject()\l+ addProjects()\l+ removeAllProjects()\l+ removeProject()\l+ contains()\l}" alt="" coords="315,147,520,356"/>
+</map>

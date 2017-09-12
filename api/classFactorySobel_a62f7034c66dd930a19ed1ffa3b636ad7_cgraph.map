@@ -1,0 +1,4 @@
+<map id="FactorySobel::init" name="FactorySobel::init">
+<area shape="rect" id="node2" href="$classSingleton.html#a653aa7351e551af1bae09d01aa713091" title="Returns the current instance of the singleton. " alt="" coords="188,5,383,47"/>
+<area shape="rect" id="node3" href="$classPluginManager.html#a5c5ef3f1e21c173c098bc4e830eae271" title="addPluginComponent adds a plugin component to internal list from where it can be instantiated later ..." alt="" coords="190,71,381,112"/>
+</map>

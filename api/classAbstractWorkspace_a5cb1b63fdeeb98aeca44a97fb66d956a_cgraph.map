@@ -1,0 +1,11 @@
+<map id="AbstractWorkspace::setWorkspaceProperties" name="AbstractWorkspace::setWorkspaceProperties">
+<area shape="rect" id="node2" href="$classAbstractWorkspace.html#a5971ff01cd68caf9743e2361dd8ee54f" title="Validate a workspace DomDocument. " alt="" coords="232,71,476,112"/>
+<area shape="rect" id="node3" href="$classAbstractWorkspace.html#a2ae00f21ebe0e1f9ba68d26764f85d77" title="AbstractWorkspace::\lworkspaceDomDocument" alt="" coords="525,5,715,47"/>
+<area shape="rect" id="node5" href="$classAbstractWorkspace.html#ab44109a0a67b4c2ff38d1aa2db5cdae5" title="AbstractWorkspace::\llastError" alt="" coords="764,100,919,141"/>
+<area shape="rect" id="node6" href="$classAbstractWorkspace.html#ab402d5b6bb194140d411c9998f2cf6c9" title="Set the workspace name. " alt="" coords="277,188,431,229"/>
+<area shape="rect" id="node8" href="$classAbstractWorkspace.html#a8cc0925995f23d35f17c9f5f352fe167" title="Set the workspace description. " alt="" coords="277,253,431,295"/>
+<area shape="rect" id="node10" href="$classAbstractWorkspace.html#a5e059c1e8c2c9d539784db29e89998f3" title="Save workspace with all settings. " alt="" coords="261,319,447,346"/>
+<area shape="rect" id="node4" href="$classAbstractWorkspace.html#a9894ad79bd362952ce3025d3f579f4e4" title="Set the last occured workspace error string. " alt="" coords="543,71,697,112"/>
+<area shape="rect" id="node7" href="$classAbstractWorkspace.html#a64f31b81e4b81e3339b0a799bc60b881" title="AbstractWorkspace::name" alt="" coords="524,195,716,222"/>
+<area shape="rect" id="node9" href="$classAbstractWorkspace.html#a2e8c462c475613a476400d52dff5ce28" title="AbstractWorkspace::\ldescription" alt="" coords="543,253,697,295"/>
+</map>

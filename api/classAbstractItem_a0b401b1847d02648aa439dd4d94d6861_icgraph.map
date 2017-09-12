@@ -1,0 +1,6 @@
+<map id="AbstractItem::name" name="AbstractItem::name">
+<area shape="rect" id="node2" href="$classAbstractItem.html#a69a268e6ec65a3b5b84e1327c3f52fd5" title="Constructs an AbstractItem with the name typeName. " alt="" coords="453,7,652,34"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#af04462c4e22ce9ef46b4b75e6a31b204" title="Set this items name. " alt="" coords="218,32,391,59"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="204,84,405,125"/>
+<area shape="rect" id="node5" href="$classSharedWindow.html#af425bc7f5de2b68f013ff9270ee92349" title="Add an item to the shared window. " alt="" coords="215,150,395,176"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Image::format" name="Image::format">
+<area shape="rect" id="node2" href="$classCannyItem.html#a7fcbd6527751eee60036f56a8d43fbb7" title="Main thread of the item. " alt="" coords="190,5,333,32"/>
+<area shape="rect" id="node3" href="$classGrayConvItem.html#a6514c3237d7c147c3721a846deab052a" title="Main thread of the item. " alt="" coords="178,56,345,83"/>
+<area shape="rect" id="node4" href="$classHarrisCornerItem.html#aa92f38916283ea6e09e6efc2e2f9598a" title="Main thread of the item. " alt="" coords="169,107,353,133"/>
+<area shape="rect" id="node5" href="$classSobelItem.html#afedc6ed7f9854a25d97470dc27a08909" title="Main thread of the item. " alt="" coords="192,157,331,184"/>
+<area shape="rect" id="node6" href="$classSubtractorItem.html#ab3f3aff10a7546e075e93a24877d4b6f" title="Main thread of the item. " alt="" coords="177,208,346,235"/>
+<area shape="rect" id="node7" href="$classImageWidget.html#a90f73a2aea2b2b94de1da96edb35a01f" title="Called when a new image arrived. " alt="" coords="168,259,355,285"/>
+<area shape="rect" id="node8" href="$classSparseWidget.html#a14f429fda031fdc479c6638e07debf1d" title="Called when a new sparse object arrived. " alt="" coords="403,259,592,285"/>
+</map>

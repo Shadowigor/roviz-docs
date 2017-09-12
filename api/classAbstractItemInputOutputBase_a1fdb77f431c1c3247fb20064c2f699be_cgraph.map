@@ -1,0 +1,6 @@
+<map id="AbstractItemInputOutputBase::updateScenePosition" name="AbstractItemInputOutputBase::updateScenePosition">
+<area shape="rect" id="node2" href="$classAbstractItem.html#a593ec5151b784bbe9b19b0833559a67a" title="AbstractItem::connectorStyle" alt="" coords="270,5,481,32"/>
+<area shape="rect" id="node4" href="$classAbstractItemInputOutputBase.html#a663f03938ee2a9272aacecc36b730273" title="Returns the type of data this object handles. " alt="" coords="268,57,483,98"/>
+<area shape="rect" id="node5" href="$classAbstractItemInputOutputBase.html#a1459899308d1bb426905547bd05ca896" title="Returns the data provided by this object. " alt="" coords="268,122,483,163"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#ad1ff8626de10eb197b4604ac41805ce1" title="AbstractItem::connectorHeight" alt="" coords="531,5,752,32"/>
+</map>

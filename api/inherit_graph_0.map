@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classAboutDialog.html" title="AboutDialog" alt="" coords="181,5,283,32"/>
+<area shape="rect" id="node3" href="$classFileProjectEditDialog.html" title="FileProjectEditDialog" alt="" coords="154,56,310,83"/>
+<area shape="rect" id="node4" href="$classFileProjectNewDialog.html" title="FileProjectNewDialog" alt="" coords="152,107,312,133"/>
+<area shape="rect" id="node5" href="$classFileWorkspaceEditDialog.html" title="FileWorkspaceEditDialog" alt="" coords="141,157,323,184"/>
+<area shape="rect" id="node6" href="$classFileWorkspaceNewDialog.html" title="FileWorkspaceNewDialog" alt="" coords="139,208,325,235"/>
+<area shape="rect" id="node7" href="$classGui__Progress__Dialog.html" title="Gui_Progress_Dialog" alt="" coords="154,259,310,285"/>
+<area shape="rect" id="node8" href="$classGuiPluginManager.html" title="GuiPluginManager" alt="" coords="162,309,302,336"/>
+<area shape="rect" id="node9" href="$classProjectChangedExternDialog.html" title="ProjectChangedExternDialog" alt="" coords="128,360,336,387"/>
+<area shape="rect" id="node10" href="$classProjectSaveReminderDialog.html" title="ProjectSaveReminderDialog" alt="" coords="131,411,333,437"/>
+<area shape="rect" id="node11" href="$classSelectWorkspaceDialog.html" title="SelectWorkspaceDialog" alt="" coords="145,461,319,488"/>
+</map>

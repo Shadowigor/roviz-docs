@@ -1,0 +1,5 @@
+<map id="AbstractItem::shape" name="AbstractItem::shape">
+<area shape="rect" id="node2" href="$classAbstractItem.html#adeb9e000b768784f095cdae77dacc6e6" title="Adds an input to this item. " alt="" coords="213,5,383,32"/>
+<area shape="rect" id="node4" href="$classAbstractItem.html#ad3ac80497453fd6944626b4e52256cf9" title="Adds an output to this item. " alt="" coords="207,56,389,83"/>
+<area shape="rect" id="node3" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="437,23,639,65"/>
+</map>

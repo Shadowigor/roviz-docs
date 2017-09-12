@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classRovizItem.html" title="Base class for all items that use the roviz framework. " alt="" coords="172,284,259,311"/>
+<area shape="rect" id="node3" href="$classCannyItem.html" title="CannyItem" alt="" coords="343,5,437,32"/>
+<area shape="rect" id="node4" href="$classCvCameraItem.html" title="CvCameraItem" alt="" coords="330,56,450,83"/>
+<area shape="rect" id="node5" href="$classFrameDelayerItem.html" title="Delays incoming frames for some time before outputting them again. " alt="" coords="319,107,461,133"/>
+<area shape="rect" id="node6" href="$classGaussianBlurItem.html" title="Blurs the image with a gaussian blur. " alt="" coords="321,157,459,184"/>
+<area shape="rect" id="node7" href="$classGrayConvItem.html" title="Converts an RGB image to grayscale. " alt="" coords="332,208,448,235"/>
+<area shape="rect" id="node8" href="$classHarrisCornerItem.html" title="HarrisCornerItem" alt="" coords="323,259,457,285"/>
+<area shape="rect" id="node9" href="$classSobelItem.html" title="SobelItem" alt="" coords="346,309,434,336"/>
+<area shape="rect" id="node10" href="$classSubtractorItem.html" title="Subtracts two images. " alt="" coords="331,360,449,387"/>
+<area shape="rect" id="node11" href="$classTEMPLATE__CLASSItem.html" title="TEMPLATE_CLASSItem" alt="" coords="307,411,473,437"/>
+<area shape="rect" id="node12" href="$classTIGItem.html" title="TIGItem" alt="" coords="353,461,427,488"/>
+<area shape="rect" id="node13" href="$classTPGItem.html" title="Test pattern generator for testing. " alt="" coords="351,512,429,539"/>
+<area shape="rect" id="node14" href="$classTVGItem.html" title="TVGItem" alt="" coords="351,563,429,589"/>
+</map>

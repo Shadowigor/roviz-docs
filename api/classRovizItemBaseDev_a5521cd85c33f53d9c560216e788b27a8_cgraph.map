@@ -1,0 +1,30 @@
+<map id="RovizItemBaseDev::contextMenuPrepare" name="RovizItemBaseDev::contextMenuPrepare">
+<area shape="rect" id="node2" href="$classRovizItemBaseDev.html#a799c2211baf42b7bca5df7bad3307054" title="RovizItemBaseDev::widget" alt="" coords="261,5,457,32"/>
+<area shape="rect" id="node3" href="$classStreamWidget.html#ad0345fca8835ed9faccdf51f226aeccf" title="Reset the widget to make it show the default image again. " alt="" coords="281,56,437,83"/>
+<area shape="rect" id="node4" href="$classAbstractItem.html#a0b401b1847d02648aa439dd4d94d6861" title="AbstractItem::name" alt="" coords="284,107,435,133"/>
+<area shape="rect" id="node5" href="$classAbstractItem.html#adeb9e000b768784f095cdae77dacc6e6" title="Adds an input to this item. " alt="" coords="274,309,445,336"/>
+<area shape="rect" id="node13" href="$classItemInput.html#afb66fbc56bc06fa839637bcc5c360b1b" title="ItemInput::data" alt="" coords="298,157,421,184"/>
+<area shape="rect" id="node15" href="$classInputPrivate.html#a27f6451de8ca5c122029ac27c05df549" title="Disconnect this input. " alt="" coords="270,259,449,285"/>
+<area shape="rect" id="node16" href="$classInputPrivate.html#ac263f58366ba1470acf03685b87ddf57" title="Connect this input to an output. " alt="" coords="279,360,439,387"/>
+<area shape="rect" id="node18" href="$classOutputPrivate.html#a9505e803f1853948a2b7c995b71986fd" title="Connects an input to this output. " alt="" coords="534,429,705,456"/>
+<area shape="rect" id="node22" href="$classStreamWidget.html#a679366394ce693db23c0de1a66e5af3d" title="Convert this widget to a QWidget. " alt="" coords="272,411,447,437"/>
+<area shape="rect" id="node23" href="$classAbstractItem.html#ad3ac80497453fd6944626b4e52256cf9" title="Adds an output to this item. " alt="" coords="268,208,451,235"/>
+<area shape="rect" id="node24" href="$classAbstractItem.html#a6cb5fa06b94e5602edfeeb748a65cd61" title="Set the data of a given output. " alt="" coords="255,512,464,539"/>
+<area shape="rect" id="node28" href="$classStreamWidget.html#a2b867b7381b0e55485cd1cbd2c344670" title="Called when a new image arrived. " alt="" coords="263,563,455,589"/>
+<area shape="rect" id="node29" href="$classTrimImplDev.html#a6fa8f8aabaf989c6edd43a218891d7af" title="TrimImplDev::layout" alt="" coords="283,613,436,640"/>
+<area shape="rect" id="node6" href="$classAbstractItem.html#a5fb3c04dd601f8897dca7f989e77d898" title="Returns the graphical shape of the item&#39;s image. " alt="" coords="543,219,696,245"/>
+<area shape="rect" id="node7" href="$classAbstractItemInputOutputBase.html#a1fdb77f431c1c3247fb20064c2f699be" title="Updates the scene position. Causes this objects position within the item scene to be updated..." alt="" coords="775,221,989,262"/>
+<area shape="rect" id="node12" href="$classItemScene.html#ae6fc066608aea4f77f20eaa344fb7296" title="ItemScene::projectGui" alt="" coords="799,169,965,196"/>
+<area shape="rect" id="node8" href="$classAbstractItem.html#a593ec5151b784bbe9b19b0833559a67a" title="AbstractItem::connectorStyle" alt="" coords="1039,169,1250,196"/>
+<area shape="rect" id="node10" href="$classAbstractItemInputOutputBase.html#a663f03938ee2a9272aacecc36b730273" title="Returns the type of data this object handles. " alt="" coords="1037,221,1252,262"/>
+<area shape="rect" id="node11" href="$classAbstractItemInputOutputBase.html#a1459899308d1bb426905547bd05ca896" title="Returns the data provided by this object. " alt="" coords="1037,286,1252,327"/>
+<area shape="rect" id="node9" href="$classAbstractItem.html#ad1ff8626de10eb197b4604ac41805ce1" title="AbstractItem::connectorHeight" alt="" coords="1300,169,1521,196"/>
+<area shape="rect" id="node14" href="$classItemInput.html#ad771393057f9c40c526797668db05d37" title="ItemInput::isConnected" alt="" coords="533,157,706,184"/>
+<area shape="rect" id="node17" href="$classOutputPrivate.html#ae05c7ecf6eca547e70811a5327b6c48b" title="Disconnet an input from this output. " alt="" coords="524,367,715,393"/>
+<area shape="rect" id="node19" href="$classInputPrivate.html#af0ddd7b2a4df0ed0a43b11a4ca52797a" title="Add an object to the input queue. " alt="" coords="543,316,695,343"/>
+<area shape="rect" id="node20" href="$classRovizItem.html#a90a7722d860e18b939954415e6b126d6" title="Mutex that waitFor() locks to check the condidion. " alt="" coords="813,359,951,385"/>
+<area shape="rect" id="node21" href="$classRovizItem.html#ad3f481ecaed250eeef2774b69890891c" title="Wake the possibly waiting thread. " alt="" coords="817,308,947,335"/>
+<area shape="rect" id="node25" href="$classAbstractItemInputOutputBase.html#a676a959a2f4bac187074eda25b192502" title="Returns the owner of this object. " alt="" coords="512,557,727,598"/>
+<area shape="rect" id="node26" href="$classItemOutput.html#ad01ee7d7a28f5dfc191da8689a064395" title="Sets the data provided by this output to data. Causes this output and the connected inputs to emit th..." alt="" coords="542,505,697,532"/>
+<area shape="rect" id="node27" href="$classItemOutput.html#aa5b6389d60d18fd1db23feae3ca7977b" title="ItemOutput::data" alt="" coords="815,505,949,532"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AbstractProject::version" name="AbstractProject::version">
+<area shape="rect" id="node2" href="$classAbstractProject.html#a181ca9a5519a2d89259ff678dd4b9eef" title="This function validates a project domDocument xml structure. A validation error can be printed by las..." alt="" coords="238,5,421,47"/>
+<area shape="rect" id="node3" href="$classAbstractProject.html#a66e3544718f358953619610b4c7a5af4" title="Set the project version. If the version is not compatible with the application, the project will be i..." alt="" coords="231,71,428,98"/>
+</map>

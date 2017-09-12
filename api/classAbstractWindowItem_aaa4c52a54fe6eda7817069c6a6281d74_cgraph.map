@@ -1,0 +1,5 @@
+<map id="AbstractWindowItem::mouseDoubleClickEvent" name="AbstractWindowItem::mouseDoubleClickEvent">
+<area shape="rect" id="node2" href="$classAbstractItem.html#a38834e2c5cc2a2490955f7f0f2648738" title="A simple default implementation of the mouseDoubleClickEvent. Override to do custom things (e..." alt="" coords="243,5,447,47"/>
+<area shape="rect" id="node3" href="$classAbstractWindowItem.html#a2a9cc9689c66040366c66cb8fddc098f" title="This is a default implementation of a slot which opens this items window, if any. If the item is not ..." alt="" coords="265,71,424,112"/>
+<area shape="rect" id="node4" href="$classAbstractWindowItem.html#a06b30685d9456f9e29bd65cee9b0c162" title="This is a pure virtual function. The implementation has to construct and return a QMainWindow which t..." alt="" coords="495,71,653,112"/>
+</map>

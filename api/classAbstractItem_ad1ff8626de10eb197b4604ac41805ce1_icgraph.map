@@ -1,0 +1,12 @@
+<map id="AbstractItem::connectorHeight" name="AbstractItem::connectorHeight">
+<area shape="rect" id="node2" href="$classAbstractItem.html#a13d4778f5a674eb0059110e79ef66cfa" title="Register a connector style for a transport type. " alt="" coords="275,15,505,57"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#a593ec5151b784bbe9b19b0833559a67a" title="AbstractItem::connectorStyle" alt="" coords="285,81,495,108"/>
+<area shape="rect" id="node4" href="$classAbstractItemInputOutputBase.html#a1fdb77f431c1c3247fb20064c2f699be" title="Updates the scene position. Causes this objects position within the item scene to be updated..." alt="" coords="553,45,768,86"/>
+<area shape="rect" id="node9" href="$classItemScene.html#a7be44ddba4c788e230ac41d5680ae82b" title="Creates a template using the currently selected items. " alt="" coords="561,111,761,137"/>
+<area shape="rect" id="node5" href="$classAbstractItem.html#a5fb3c04dd601f8897dca7f989e77d898" title="Returns the graphical shape of the item&#39;s image. " alt="" coords="833,52,986,79"/>
+<area shape="rect" id="node6" href="$classAbstractItem.html#adeb9e000b768784f095cdae77dacc6e6" title="Adds an input to this item. " alt="" coords="1069,5,1240,32"/>
+<area shape="rect" id="node8" href="$classAbstractItem.html#ad3ac80497453fd6944626b4e52256cf9" title="Adds an output to this item. " alt="" coords="1063,56,1246,83"/>
+<area shape="rect" id="node7" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="1307,23,1508,65"/>
+<area shape="rect" id="node10" href="$classAbstractItem.html#ac850ae4d246469e45d492bfcdd8e5d9c" title="AbstractItem::description" alt="" coords="816,111,1003,137"/>
+<area shape="rect" id="node11" href="$classAbstractItem.html#a22ad99fcce341318e27b5b094a973261" title="Set the description of the item. " alt="" coords="1051,111,1259,137"/>
+</map>

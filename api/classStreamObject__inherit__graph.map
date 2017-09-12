@@ -1,0 +1,8 @@
+<map id="StreamObject" name="StreamObject">
+<area shape="rect" id="node2" href="$classImage.html" title="A portable image class with smart memory management. " alt="" coords="30,175,166,413"/>
+<area shape="rect" id="node4" href="$classMessage.html" title="Used to send messages across streams. " alt="" coords="206,204,321,384"/>
+<area shape="rect" id="node6" href="$classSparse.html" title="{Sparse\&lt; T \&gt;\n|# _this\l|+ Sparse()\l+ Sparse()\l+ add()\l+ add()\l+ add()\l+ size()\l+ at()\l+ operator[]()\l+ baseImage()\l+ begin()\l+ end()\l+ initWidget()\l}" alt="" coords="367,175,485,413"/>
+<area shape="rect" id="node3" href="$classImageMutable.html" title="The mutable version Image. " alt="" coords="5,469,156,590"/>
+<area shape="rect" id="node5" href="$classMessageMutable.html" title="The mutable version of Message. " alt="" coords="180,461,347,597"/>
+<area shape="rect" id="node7" href="$classSparseMutable.html" title="{SparseMutable\&lt; T \&gt;\n||+ SparseMutable()\l+ at()\l+ operator[]()\l+ begin()\l+ end()\l}" alt="" coords="371,461,527,597"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MessageMutable" name="MessageMutable">
+<area shape="rect" id="node2" href="$classMessage.html" title="Used to send messages across streams. " alt="" coords="31,175,146,355"/>
+<area shape="rect" id="node3" href="$classStreamObject.html" title="Base class of all objects that can be transported with a stream. " alt="" coords="15,5,162,127"/>
+</map>

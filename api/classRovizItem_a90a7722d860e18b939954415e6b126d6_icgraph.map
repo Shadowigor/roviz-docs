@@ -1,0 +1,6 @@
+<map id="RovizItem::mutex" name="RovizItem::mutex">
+<area shape="rect" id="node2" href="$classInputPrivate.html#af0ddd7b2a4df0ed0a43b11a4ca52797a" title="Add an object to the input queue. " alt="" coords="191,38,343,65"/>
+<area shape="rect" id="node3" href="$classInputPrivate.html#ac263f58366ba1470acf03685b87ddf57" title="Connect this input to an output. " alt="" coords="410,13,570,39"/>
+<area shape="rect" id="node5" href="$classOutput.html#a3c79386c4c00167843c0530fb402b6c1" title="Pushes out a Stream object. " alt="" coords="391,63,589,90"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="637,5,839,47"/>
+</map>

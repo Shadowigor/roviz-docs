@@ -1,0 +1,7 @@
+<map id="MessageMutable" name="MessageMutable">
+<area shape="rect" id="node2" href="$classMessage.html" title="Used to send messages across streams. " alt="" coords="43,403,157,583"/>
+<area shape="rect" id="node3" href="$classStreamObject.html" title="Base class of all objects that can be transported with a stream. " alt="" coords="5,219,152,340"/>
+<area shape="rect" id="node4" href="$classMessagePrivate.html" title="Private part of the Message class. " alt="" coords="177,241,338,318"/>
+<area shape="rect" id="node5" href="$classStreamObjectPrivate.html" title="Private part of the StreamObject class. " alt="" coords="70,35,263,127"/>
+<area shape="rect" id="node6" href="$structMessage_1_1Entry.html" title="An entry of a message. " alt="" coords="287,5,409,156"/>
+</map>

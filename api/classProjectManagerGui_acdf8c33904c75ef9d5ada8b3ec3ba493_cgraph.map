@@ -1,0 +1,6 @@
+<map id="ProjectManagerGui::preDestroy" name="ProjectManagerGui::preDestroy">
+<area shape="rect" id="node2" href="$classSingleton.html#a653aa7351e551af1bae09d01aa713091" title="Returns the current instance of the singleton. " alt="" coords="216,5,392,47"/>
+<area shape="rect" id="node3" href="$classGuiManager.html#a74669039291400a45c2d4d7e4bb9222d" title="Adds a widget to the mainwindow. " alt="" coords="215,71,393,98"/>
+<area shape="rect" id="node4" href="$classGuiManager.html#a1c022df32864a26e0c395ab9111c2b42" title="This callback will be executed by an application close event. If the callback returns true the close ..." alt="" coords="207,123,401,164"/>
+<area shape="rect" id="node5" href="$classGuiManager.html#a340c024346628c058affb058157ec74a" title="Access to reference of an action. " alt="" coords="230,189,378,215"/>
+</map>

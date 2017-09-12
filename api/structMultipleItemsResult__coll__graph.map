@@ -1,0 +1,6 @@
+<map id="MultipleItemsResult" name="MultipleItemsResult">
+<area shape="rect" id="node2" href="$classSomeItem.html" title="{SomeItem\n|+ _name\l+ _number\l+ number\l+ name\l|+ SomeItem()\l+ SomeItem()\l}" alt="" coords="56,936,171,1072"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html" title="The AbstractItem class is the base class for all items. " alt="" coords="5,132,203,591"/>
+<area shape="rect" id="node5" href="$classItemNote.html" title="{ItemNote\n||+ ItemNote()\l+ ~ItemNote()\l+ boundingRect()\l+ shape()\l+ inEditMode()\l+ load()\l+ save()\l+ paint()\l# contextMenuEvent()\l# mouseDoubleClickEvent()\l# hoverMoveEvent()\l# hoverLeaveEvent()\l# mousePressEvent()\l# mouseMoveEvent()\l# mouseReleaseEvent()\l# itemChange()\l}" alt="" coords="125,615,331,912"/>
+<area shape="rect" id="node6" href="$classItem__Connector.html" title="{Item_Connector\n||+ Item_Connector()\l+ ~Item_Connector()\l+ boundingRect()\l+ shape()\l+ contains()\l+ collidesWithPath()\l+ paint()\l+ get_output()\l+ get_input()\l+ load_additional()\l+ save_additional()\l+ mousePressEvent()\l+ mouseMoveEvent()\l+ mouseReleaseEvent()\l+ hoverMoveEvent()\l+ do_update()\l}" alt="" coords="339,615,517,912"/>
+</map>

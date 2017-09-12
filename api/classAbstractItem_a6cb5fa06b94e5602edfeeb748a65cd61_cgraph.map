@@ -1,0 +1,5 @@
+<map id="AbstractItem::setOutputData" name="AbstractItem::setOutputData">
+<area shape="rect" id="node2" href="$classAbstractItemInputOutputBase.html#a676a959a2f4bac187074eda25b192502" title="Returns the owner of this object. " alt="" coords="263,5,477,47"/>
+<area shape="rect" id="node3" href="$classItemOutput.html#ad01ee7d7a28f5dfc191da8689a064395" title="Sets the data provided by this output to data. Causes this output and the connected inputs to emit th..." alt="" coords="293,71,447,98"/>
+<area shape="rect" id="node4" href="$classItemOutput.html#aa5b6389d60d18fd1db23feae3ca7977b" title="ItemOutput::data" alt="" coords="525,71,659,98"/>
+</map>

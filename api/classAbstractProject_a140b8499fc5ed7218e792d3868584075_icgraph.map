@@ -1,0 +1,4 @@
+<map id="AbstractProject::isDirty" name="AbstractProject::isDirty">
+<area shape="rect" id="node2" href="$classAbstractProject.html#aa6b518e09022ec10937a991538a5144c" title="The isDirty flag represent the project save state. " alt="" coords="225,5,407,32"/>
+<area shape="rect" id="node3" href="$classAbstractProject.html#a08fbc38691b7e0ff5a59de8643af0e04" title="Initialize the project properties (e.g. settings scope) and connect them. " alt="" coords="455,5,605,32"/>
+</map>

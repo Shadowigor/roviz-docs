@@ -1,0 +1,6 @@
+<map id="SettingsScope::deinit" name="SettingsScope::deinit">
+<area shape="rect" id="node2" href="$classSettingsScope.html#a2555e584716df3d14505d942feae92fa" title="Persists this settings scope to given DOM element parent. " alt="" coords="212,31,365,57"/>
+<area shape="rect" id="node3" href="$classDomHelper.html#ada5123ac7d985c8acd7266dc106d0a3c" title="Creates a new DOM element tagName, saves variant to it and returns the created element. " alt="" coords="413,5,595,32"/>
+<area shape="rect" id="node4" href="$classSettingsScope.html#a68ec2c7e55bb14df5e85ae6470410302" title="Returns a string identifier for this settings scope. " alt="" coords="418,56,590,83"/>
+<area shape="rect" id="node5" href="$classSettingsScope.html#af5fcf169a754be0bb8e7451deb9fb77f" title="Returns the parent setting scope or NULL, if this settings scope has no parent settings scope..." alt="" coords="643,56,845,83"/>
+</map>

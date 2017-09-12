@@ -1,0 +1,4 @@
+<map id="FactoryTVG::init" name="FactoryTVG::init">
+<area shape="rect" id="node2" href="$classSingleton.html#a653aa7351e551af1bae09d01aa713091" title="Returns the current instance of the singleton. " alt="" coords="179,5,373,47"/>
+<area shape="rect" id="node3" href="$classPluginManager.html#a5c5ef3f1e21c173c098bc4e830eae271" title="addPluginComponent adds a plugin component to internal list from where it can be instantiated later ..." alt="" coords="181,71,371,112"/>
+</map>

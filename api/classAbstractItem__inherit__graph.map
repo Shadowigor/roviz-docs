@@ -1,0 +1,5 @@
+<map id="AbstractItem" name="AbstractItem">
+<area shape="rect" id="node3" href="$classAbstractWindowItem.html" title="The AbstractWindowItem class provides basic standard functionality for a typical item that uses a win..." alt="" coords="5,659,240,913"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDev.html" title="Base class that binds RovizItem to the itemframework/Qt. " alt="" coords="265,637,471,935"/>
+<area shape="rect" id="node5" href="$classSomeItem.html" title="{SomeItem\n|+ _name\l+ _number\l+ number\l+ name\l|+ SomeItem()\l+ SomeItem()\l}" alt="" coords="496,718,611,854"/>
+</map>

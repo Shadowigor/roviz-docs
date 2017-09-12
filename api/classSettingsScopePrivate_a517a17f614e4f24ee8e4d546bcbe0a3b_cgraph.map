@@ -1,0 +1,4 @@
+<map id="SettingsScopePrivate::value" name="SettingsScopePrivate::value">
+<area shape="rect" id="node2" href="$classSettingsScope.html#a843123f00889c2e5644707ea880c339e" title="Returns the variant value of the setting identified by key. " alt="" coords="235,5,394,32"/>
+<area shape="rect" id="node3" href="$classSettingsScope.html#af5fcf169a754be0bb8e7451deb9fb77f" title="Returns the parent setting scope or NULL, if this settings scope has no parent settings scope..." alt="" coords="213,56,416,83"/>
+</map>

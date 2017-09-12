@@ -1,0 +1,6 @@
+<map id="FileWorkspace::save" name="FileWorkspace::save">
+<area shape="rect" id="node2" href="$classFileHelper.html#a2767fbd48b96831a6eea846a94cc6740" title="FileHelper::fileExists" alt="" coords="240,5,395,32"/>
+<area shape="rect" id="node3" href="$classFileHelper.html#aa2b25bb131aa793416764b351ccf24ea" title="FileHelper::lastError" alt="" coords="242,56,393,83"/>
+<area shape="rect" id="node4" href="$classFileHelper.html#a9192d8383598f057791e08aa962574b2" title="FileHelper::testFileOpenMode" alt="" coords="212,107,423,133"/>
+<area shape="rect" id="node5" href="$classFileHelper.html#aade966f902598e78523894708f214995" title="FileHelper::absoluteToRelative\lFilePath" alt="" coords="208,158,427,199"/>
+</map>

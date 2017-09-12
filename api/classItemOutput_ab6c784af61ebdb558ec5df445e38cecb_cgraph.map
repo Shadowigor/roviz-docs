@@ -1,0 +1,4 @@
+<map id="ItemOutput::connectInput" name="ItemOutput::connectInput">
+<area shape="rect" id="node2" href="$classAbstractItemInputOutputBase.html#a663f03938ee2a9272aacecc36b730273" title="Returns the type of data this object handles. " alt="" coords="241,5,456,47"/>
+<area shape="rect" id="node3" href="$classItemInput.html#ad771393057f9c40c526797668db05d37" title="ItemInput::isConnected" alt="" coords="262,71,435,98"/>
+</map>

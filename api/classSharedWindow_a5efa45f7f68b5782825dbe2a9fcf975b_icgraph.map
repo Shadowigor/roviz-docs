@@ -1,0 +1,5 @@
+<map id="SharedWindow::instance" name="SharedWindow::instance">
+<area shape="rect" id="node2" href="$classRovizItemBaseDev.html#a8d74eb8d4e94a8ce5e349273a595eb95" title="RovizItemBaseDev::RovizItem\lBaseDev" alt="" coords="525,31,743,73"/>
+<area shape="rect" id="node3" href="$classRovizItemBaseDev.html#a32a3659383fd67dac57d33c25913f3ca" title="Opens the item in the SharedWindow. " alt="" coords="235,27,477,69"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDevPrivate.html#a0ef29a542b1ce7109700d08707ac4967" title="Adds the item to the shared window and loads the configs (cannot be done in the constructor, because the SettingsScope is still parentless) " alt="" coords="261,93,451,134"/>
+</map>

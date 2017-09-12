@@ -1,0 +1,10 @@
+<map id="FileHelper::testFileOpenMode" name="FileHelper::testFileOpenMode">
+<area shape="rect" id="node2" href="$classFileHelper.html#a8e898f04d5981788d1d8415a63fb8caa" title="FileHelper::domDocumentFrom\lXMLFile" alt="" coords="264,54,487,95"/>
+<area shape="rect" id="node3" href="$classFileProject.html#a1a55dcaf78aa253869e1f0864b11ec0d" title="Reload the complete project structure from xml. All settings, which are not saved will be discarded a..." alt="" coords="551,5,682,32"/>
+<area shape="rect" id="node6" href="$classFileProject.html#ac8fbbb3835a46bb142a803c6bbe42e27" title="Check autosave project xml exists. " alt="" coords="277,120,473,147"/>
+<area shape="rect" id="node7" href="$classFileProject.html#a8117eb086191659e1c83d03188bfc3ff" title="Save the project in a xml structure. " alt="" coords="311,171,439,197"/>
+<area shape="rect" id="node8" href="$classFileProject.html#a0d06660b6cc74f4d768817bdc6247d6d" title="Save the project in a xml structure. " alt="" coords="297,221,454,248"/>
+<area shape="rect" id="node9" href="$classFileWorkspace.html#a09f1a23dbd4a31d7337c20e3ace9e0e5" title="Save workspace with all settings. " alt="" coords="298,272,453,299"/>
+<area shape="rect" id="node4" href="$classFileProject.html#a3b4d4838a1f161e7f7879c07b951a026" title="Set the project loaded property. This indicates, that the project is currently loaded by the related ..." alt="" coords="535,60,699,87"/>
+<area shape="rect" id="node5" href="$classFileWorkspace.html#a54da1df1f31d8c9558a0eb55c100200a" title="Initialize the Workspace and set isValid flag. This function must be called, otherwise the workspace ..." alt="" coords="545,111,689,137"/>
+</map>

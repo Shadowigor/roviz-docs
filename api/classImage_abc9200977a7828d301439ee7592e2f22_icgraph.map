@@ -1,0 +1,8 @@
+<map id="Image::height" name="Image::height">
+<area shape="rect" id="node2" href="$classGrayConvItem.html#a6514c3237d7c147c3721a846deab052a" title="Main thread of the item. " alt="" coords="190,5,357,32"/>
+<area shape="rect" id="node3" href="$classHarrisCornerItem.html#aa92f38916283ea6e09e6efc2e2f9598a" title="Main thread of the item. " alt="" coords="181,56,365,83"/>
+<area shape="rect" id="node4" href="$classSubtractorItem.html#ab3f3aff10a7546e075e93a24877d4b6f" title="Main thread of the item. " alt="" coords="189,107,358,133"/>
+<area shape="rect" id="node5" href="$classImageWidget.html#a90f73a2aea2b2b94de1da96edb35a01f" title="Called when a new image arrived. " alt="" coords="180,157,367,184"/>
+<area shape="rect" id="node7" href="$classImageMutable.html#ae8c99b68db5f907686235fa8f40a2cfb" title="Constructs an empty image with the given size. " alt="" coords="165,208,381,235"/>
+<area shape="rect" id="node6" href="$classSparseWidget.html#a14f429fda031fdc479c6638e07debf1d" title="Called when a new sparse object arrived. " alt="" coords="429,157,619,184"/>
+</map>

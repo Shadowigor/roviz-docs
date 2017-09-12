@@ -1,0 +1,4 @@
+<map id="GuiManager::action" name="GuiManager::action">
+<area shape="rect" id="node2" href="$classLivedoc.html#a256e5b678be1526cd9a2286ebeb6a116" title="preDestroy will be called before any of the components and singletons will be destructed/deinitailize..." alt="" coords="202,5,354,32"/>
+<area shape="rect" id="node3" href="$classProjectManagerGui.html#acdf8c33904c75ef9d5ada8b3ec3ba493" title="preDestroy will be called before any of the components and singletons will be destructed/deinitailize..." alt="" coords="201,57,355,98"/>
+</map>

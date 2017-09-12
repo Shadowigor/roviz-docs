@@ -1,0 +1,4 @@
+<map id="AbstractItem::mouseDoubleClickEvent" name="AbstractItem::mouseDoubleClickEvent">
+<area shape="rect" id="node2" href="$classAbstractWindowItem.html#aaa4c52a54fe6eda7817069c6a6281d74" title="A simple default implementation of the mouseDoubleClickEvent. Override to do custom things (e..." alt="" coords="284,5,473,47"/>
+<area shape="rect" id="node3" href="$classRovizItemBaseDev.html#a32a3659383fd67dac57d33c25913f3ca" title="Opens the item in the SharedWindow. " alt="" coords="257,71,500,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ItemScene::copyableItems" name="ItemScene::copyableItems">
+<area shape="rect" id="node2" href="$classAbstractItem.html#ac850ae4d246469e45d492bfcdd8e5d9c" title="AbstractItem::description" alt="" coords="248,5,435,32"/>
+<area shape="rect" id="node4" href="$classItemScene.html#af66b07112195b43a6abda36c0404c7fb" title="copies the selected items &amp; connectors to clipboard and removes them from the scene ..." alt="" coords="282,56,401,83"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#a22ad99fcce341318e27b5b094a973261" title="Set the description of the item. " alt="" coords="483,5,691,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classConsoleWidget.html" title="The ConsoleWidget shows the contents of ConsoleModel::instance() (an QAbstractTableModel) in a QTable..." alt="" coords="189,5,309,32"/>
+<area shape="rect" id="node3" href="$classDockWidgetSignaling.html" title="QDockWidget that emits signals. " alt="" coords="168,56,329,83"/>
+<area shape="rect" id="node4" href="$classItem__Toolbox.html" title="Item_Toolbox" alt="" coords="194,107,303,133"/>
+<area shape="rect" id="node5" href="$classItemTemplatesWidget.html" title="ItemTemplatesWidget" alt="" coords="166,157,331,184"/>
+<area shape="rect" id="node6" href="$classProjectListDockWidget.html" title="ProjectListDockWidget" alt="" coords="164,208,333,235"/>
+</map>

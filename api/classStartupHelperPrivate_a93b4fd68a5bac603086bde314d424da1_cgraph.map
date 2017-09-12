@@ -1,0 +1,6 @@
+<map id="StartupHelperPrivate::stop" name="StartupHelperPrivate::stop">
+<area shape="rect" id="node2" href="$classStartupHelperPrivate.html#ad5fbb50f47c9019b76caf1ac726381ca" title="findClass finds a class in the list of registerd classes by name " alt="" coords="222,5,381,47"/>
+<area shape="rect" id="node3" href="$classObjectState.html#a1cb755a50476593d986242be16c2ecaa" title="Tries to call preDestroy() on the represented singleton. Does nothing if the represented class is a c..." alt="" coords="212,71,391,98"/>
+<area shape="rect" id="node5" href="$classObjectState.html#a3f8a1820be97b5468e69e04f029f008d" title="Tries to delete the represented singleton or call deinit() on the represented component. " alt="" coords="224,122,379,149"/>
+<area shape="rect" id="node4" href="$classAbstractSingleton.html#a8e747c47cb10a18ec01658a8a0de90bd" title="preDestroy will be called before any of the components and singletons will be destructed/deinitailize..." alt="" coords="439,64,584,105"/>
+</map>

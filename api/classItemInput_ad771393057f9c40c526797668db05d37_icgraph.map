@@ -1,0 +1,14 @@
+<map id="ItemInput::isConnected" name="ItemInput::isConnected">
+<area shape="rect" id="node2" href="$classItemInput.html#a89e89568d462627aabc1eaa02e553f90" title="Disconnects the output this input is connected to, if any. " alt="" coords="227,57,433,84"/>
+<area shape="rect" id="node9" href="$classItemInput.html#abbde4723e33dbd5aab3dee52349edd59" title="Connects this input to the output output. " alt="" coords="236,112,424,139"/>
+<area shape="rect" id="node10" href="$classItemInput.html#afb66fbc56bc06fa839637bcc5c360b1b" title="ItemInput::data" alt="" coords="269,163,391,189"/>
+<area shape="rect" id="node12" href="$classItemOriginVisualizer.html#a64238084bdd28642d04ce9c65462ac5b" title="ItemOriginVisualizer\l::setItem" alt="" coords="253,214,407,255"/>
+<area shape="rect" id="node13" href="$classItemOutput.html#ab6c784af61ebdb558ec5df445e38cecb" title="Connects this output to the input input. " alt="" coords="236,280,424,307"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#a307530ecee5a0d0988b9656daca6d5de" title="Removes an input from this item. " alt="" coords="500,5,664,32"/>
+<area shape="rect" id="node4" href="$classAbstractItem.html#ae9c0cab8866beef785905c8cda641405" title="Remove all the inputs from this item. " alt="" coords="489,56,675,83"/>
+<area shape="rect" id="node5" href="$classAbstractItem.html#ac2d4f5fc5dcb6e35d2c6c815ebd90725" title="Disconnects all connections from/to the item. " alt="" coords="731,74,915,115"/>
+<area shape="rect" id="node6" href="$classAbstractItem.html#ac850ae4d246469e45d492bfcdd8e5d9c" title="AbstractItem::description" alt="" coords="1211,81,1397,108"/>
+<area shape="rect" id="node8" href="$classItemScene.html#a7be44ddba4c788e230ac41d5680ae82b" title="Creates a template using the currently selected items. " alt="" coords="963,107,1163,133"/>
+<area shape="rect" id="node7" href="$classAbstractItem.html#a22ad99fcce341318e27b5b094a973261" title="Set the description of the item. " alt="" coords="1445,81,1653,108"/>
+<area shape="rect" id="node11" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="481,158,683,199"/>
+</map>

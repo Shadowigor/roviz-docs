@@ -1,0 +1,4 @@
+<map id="ObjectState::destroy" name="ObjectState::destroy">
+<area shape="rect" id="node2" href="$classStartupHelperPrivate.html#a93b4fd68a5bac603086bde314d424da1" title="Deletes all Singleton Instances and calls deinit() on all Components The Singleton Instances and Comp..." alt="" coords="208,5,367,47"/>
+<area shape="rect" id="node3" href="$classStartupHelper.html#a57546535369966b0e86a9075384c864e" title="This function does nothing. But you can call it if you want to make sure that this translation unit i..." alt="" coords="415,5,609,47"/>
+</map>

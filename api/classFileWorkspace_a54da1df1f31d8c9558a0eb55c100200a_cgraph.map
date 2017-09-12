@@ -1,0 +1,6 @@
+<map id="FileWorkspace::init" name="FileWorkspace::init">
+<area shape="rect" id="node2" href="$classFileHelper.html#a8e898f04d5981788d1d8415a63fb8caa" title="FileHelper::domDocumentFrom\lXMLFile" alt="" coords="197,23,420,65"/>
+<area shape="rect" id="node5" href="$classFileHelper.html#a3641d3a8a4d12944b3b620829844e1ab" title="FileHelper::relativeToAbsolute\lFilePath" alt="" coords="201,89,417,130"/>
+<area shape="rect" id="node3" href="$classFileHelper.html#a2767fbd48b96831a6eea846a94cc6740" title="FileHelper::fileExists" alt="" coords="496,5,651,32"/>
+<area shape="rect" id="node4" href="$classFileHelper.html#a9192d8383598f057791e08aa962574b2" title="FileHelper::testFileOpenMode" alt="" coords="468,56,679,83"/>
+</map>

@@ -1,0 +1,2 @@
+<map id="internal::HasMetaObject&lt; T, typename std::enable_if&lt; std::is_same&lt; const QMetaObject, decltype(T::staticMetaObject)&gt;::value &gt;::type &gt;" name="internal::HasMetaObject&lt; T, typename std::enable_if&lt; std::is_same&lt; const QMetaObject, decltype(T::staticMetaObject)&gt;::value &gt;::type &gt;">
+</map>

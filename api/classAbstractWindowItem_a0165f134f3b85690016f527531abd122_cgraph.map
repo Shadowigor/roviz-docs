@@ -1,0 +1,4 @@
+<map id="AbstractWindowItem::contextMenuPrepare" name="AbstractWindowItem::contextMenuPrepare">
+<area shape="rect" id="node2" href="$classAbstractWindowItem.html#a2a9cc9689c66040366c66cb8fddc098f" title="This is a default implementation of a slot which opens this items window, if any. If the item is not ..." alt="" coords="217,5,376,47"/>
+<area shape="rect" id="node3" href="$classAbstractWindowItem.html#a06b30685d9456f9e29bd65cee9b0c162" title="This is a pure virtual function. The implementation has to construct and return a QMainWindow which t..." alt="" coords="424,5,583,47"/>
+</map>

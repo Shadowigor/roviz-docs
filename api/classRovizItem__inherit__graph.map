@@ -1,0 +1,14 @@
+<map id="RovizItem" name="RovizItem">
+<area shape="rect" id="node3" href="$classCannyItem.html" title="{CannyItem\n||+ CannyItem()\l+ ~CannyItem()\l# thread()\l}" alt="" coords="5,469,135,575"/>
+<area shape="rect" id="node4" href="$classCvCameraItem.html" title="{CvCameraItem\n||+ CvCameraItem()\l+ ~CvCameraItem()\l# thread()\l# stopped()\l}" alt="" coords="159,461,315,583"/>
+<area shape="rect" id="node5" href="$classFrameDelayerItem.html" title="Delays incoming frames for some time before outputting them again. " alt="" coords="339,461,518,583"/>
+<area shape="rect" id="node6" href="$classGaussianBlurItem.html" title="Blurs the image with a gaussian blur. " alt="" coords="543,469,717,575"/>
+<area shape="rect" id="node7" href="$classGrayConvItem.html" title="Converts an RGB image to grayscale. " alt="" coords="742,461,894,583"/>
+<area shape="rect" id="node8" href="$classHarrisCornerItem.html" title="{HarrisCornerItem\n||+ HarrisCornerItem()\l+ ~HarrisCornerItem()\l# thread()\l}" alt="" coords="918,469,1089,575"/>
+<area shape="rect" id="node9" href="$classSobelItem.html" title="{SobelItem\n||+ SobelItem()\l+ ~SobelItem()\l# thread()\l}" alt="" coords="1113,469,1237,575"/>
+<area shape="rect" id="node10" href="$classSubtractorItem.html" title="Subtracts two images. " alt="" coords="1262,461,1417,583"/>
+<area shape="rect" id="node11" href="$classTEMPLATE__CLASSItem.html" title="{TEMPLATE_CLASSItem\n||+ TEMPLATE_CLASSItem()\l+ ~TEMPLATE_CLASSItem()\l# thread()\l}" alt="" coords="1441,469,1643,575"/>
+<area shape="rect" id="node12" href="$classTIGItem.html" title="{TIGItem\n||+ TIGItem()\l+ ~TIGItem()\l# thread()\l}" alt="" coords="1668,469,1779,575"/>
+<area shape="rect" id="node13" href="$classTPGItem.html" title="Test pattern generator for testing. " alt="" coords="1803,476,1918,568"/>
+<area shape="rect" id="node14" href="$classTVGItem.html" title="{TVGItem\n||+ TVGItem()\l+ ~TVGItem()\l# thread()\l}" alt="" coords="1942,469,2057,575"/>
+</map>

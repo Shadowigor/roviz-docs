@@ -1,0 +1,7 @@
+<map id="RovizItemBaseDev::widget" name="RovizItemBaseDev::widget">
+<area shape="rect" id="node2" href="$classRovizItemBaseDev.html#a8d74eb8d4e94a8ce5e349273a595eb95" title="RovizItemBaseDev::RovizItem\lBaseDev" alt="" coords="743,82,960,123"/>
+<area shape="rect" id="node3" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="252,31,453,72"/>
+<area shape="rect" id="node4" href="$classSharedWindow.html#af425bc7f5de2b68f013ff9270ee92349" title="Add an item to the shared window. " alt="" coords="263,97,443,124"/>
+<area shape="rect" id="node5" href="$classSharedWindow.html#a78045b522aa4bbce59c1b8862ee6f213" title="Remove an item from the shared window. " alt="" coords="249,148,456,174"/>
+<area shape="rect" id="node6" href="$classRovizItemBaseDevPrivate.html#a0ef29a542b1ce7109700d08707ac4967" title="Adds the item to the shared window and loads the configs (cannot be done in the constructor, because the SettingsScope is still parentless) " alt="" coords="504,140,695,182"/>
+</map>

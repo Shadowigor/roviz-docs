@@ -1,0 +1,6 @@
+<map id="DomHelper::loadVariant" name="DomHelper::loadVariant">
+<area shape="rect" id="node2" href="$classDomHelper.html#aa78f43728da857e52fa32393f98c3b11" title="Loads variant from element and returns true on success, false otherwise. " alt="" coords="236,5,415,32"/>
+<area shape="rect" id="node3" href="$classDomHelper.html#a55263ebd93255d889171e2a1d56d2fbb" title="Loads a property from element, sets the related property for object and returns true on success..." alt="" coords="232,56,419,83"/>
+<area shape="rect" id="node4" href="$classSettingsScope.html#ad9b8a842903571b4994a31c564daa8e9" title="Loads persisted settings scope from given DOM element parent. " alt="" coords="250,107,401,133"/>
+<area shape="rect" id="node5" href="$classSettingsScope.html#af2397ef052f132643e9cd8be8e368c0b" title="This function has to be called once at start in order to initialize global and application settings s..." alt="" coords="467,107,609,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="AbstractWorkspace::save" name="AbstractWorkspace::save">
+<area shape="rect" id="node2" href="$classAbstractWorkspace.html#a5cb1b63fdeeb98aeca44a97fb66d956a" title="Set the workspace properties. The properties will be read from domDocument. " alt="" coords="240,5,419,47"/>
+<area shape="rect" id="node3" href="$classAbstractWorkspace.html#a85cf77097559e7de2ffbb603b4c2afd6" title="Add a project into workspace. " alt="" coords="252,71,407,112"/>
+<area shape="rect" id="node4" href="$classAbstractWorkspace.html#aafcec232e04f07e20a7dbb9edc274def" title="Remove a project from workspace. The project will not be deleted. " alt="" coords="252,136,407,177"/>
+<area shape="rect" id="node5" href="$classAbstractWorkspace.html#a889a2a66a1cd24fd18f88e82ccb51635" title="Remove all projects from workspace. The projects will not be deleted. " alt="" coords="252,201,407,243"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FileWorkspace::deleteProject" name="FileWorkspace::deleteProject">
+<area shape="rect" id="node2" href="$classFileHelper.html#a4344e7b7e493f2f4a5f83439f9dc45a8" title="FileHelper::removeFile" alt="" coords="263,5,429,32"/>
+<area shape="rect" id="node4" href="$classFileHelper.html#aa2b25bb131aa793416764b351ccf24ea" title="FileHelper::lastError" alt="" coords="271,56,421,83"/>
+<area shape="rect" id="node3" href="$classFileHelper.html#a2767fbd48b96831a6eea846a94cc6740" title="FileHelper::fileExists" alt="" coords="477,5,632,32"/>
+</map>

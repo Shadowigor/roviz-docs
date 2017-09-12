@@ -1,0 +1,5 @@
+<map id="ObjectState::className" name="ObjectState::className">
+<area shape="rect" id="node2" href="$classObjectState.html#ac14b62833201d696e9383c7debac93a4" title="Tries to construct the represented singleton or call init() on the represented component. " alt="" coords="232,13,359,39"/>
+<area shape="rect" id="node3" href="$classStartupHelperPrivate.html#a50178d10f70947ea877287a8165bab7f" title="Creates all Singletons and calls init() on Components in the correct order The function ensures that ..." alt="" coords="407,5,565,47"/>
+<area shape="rect" id="node4" href="$classStartupHelper.html#a57546535369966b0e86a9075384c864e" title="This function does nothing. But you can call it if you want to make sure that this translation unit i..." alt="" coords="613,5,808,47"/>
+</map>

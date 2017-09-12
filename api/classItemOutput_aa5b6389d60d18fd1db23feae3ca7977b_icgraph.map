@@ -1,0 +1,5 @@
+<map id="ItemOutput::data" name="ItemOutput::data">
+<area shape="rect" id="node2" href="$classItemOutput.html#ad01ee7d7a28f5dfc191da8689a064395" title="Sets the data provided by this output to data. Causes this output and the connected inputs to emit th..." alt="" coords="187,13,341,39"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#a6cb5fa06b94e5602edfeeb748a65cd61" title="Set the data of a given output. " alt="" coords="389,13,599,39"/>
+<area shape="rect" id="node4" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="647,5,848,47"/>
+</map>

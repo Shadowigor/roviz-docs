@@ -1,0 +1,6 @@
+<map id="ItemOriginVisualizer::setItem" name="ItemOriginVisualizer::setItem">
+<area shape="rect" id="node2" href="$classAbstractItem.html#ad87f93487b55eb3ab787e8bc7b20f8cd" title="AbstractItem::inputs" alt="" coords="238,5,393,32"/>
+<area shape="rect" id="node3" href="$classItemInput.html#ad771393057f9c40c526797668db05d37" title="ItemInput::isConnected" alt="" coords="229,56,402,83"/>
+<area shape="rect" id="node4" href="$classItemInput.html#a6152463f3e571995d896f2f36c0d5f6c" title="ItemInput::output" alt="" coords="248,107,383,133"/>
+<area shape="rect" id="node5" href="$classAbstractItemInputOutputBase.html#a676a959a2f4bac187074eda25b192502" title="Returns the owner of this object. " alt="" coords="208,158,423,199"/>
+</map>

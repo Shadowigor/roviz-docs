@@ -1,0 +1,8 @@
+<map id="AbstractItem::shape" name="AbstractItem::shape">
+<area shape="rect" id="node2" href="$classAbstractItemInputOutputBase.html#a1fdb77f431c1c3247fb20064c2f699be" title="Updates the scene position. Causes this objects position within the item scene to be updated..." alt="" coords="207,57,421,98"/>
+<area shape="rect" id="node7" href="$classItemScene.html#ae6fc066608aea4f77f20eaa344fb7296" title="ItemScene::projectGui" alt="" coords="231,123,397,149"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#a593ec5151b784bbe9b19b0833559a67a" title="AbstractItem::connectorStyle" alt="" coords="471,5,682,32"/>
+<area shape="rect" id="node5" href="$classAbstractItemInputOutputBase.html#a663f03938ee2a9272aacecc36b730273" title="Returns the type of data this object handles. " alt="" coords="469,57,684,98"/>
+<area shape="rect" id="node6" href="$classAbstractItemInputOutputBase.html#a1459899308d1bb426905547bd05ca896" title="Returns the data provided by this object. " alt="" coords="469,122,684,163"/>
+<area shape="rect" id="node4" href="$classAbstractItem.html#ad1ff8626de10eb197b4604ac41805ce1" title="AbstractItem::connectorHeight" alt="" coords="732,5,953,32"/>
+</map>

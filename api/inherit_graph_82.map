@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classStreamObject.html" title="Base class of all objects that can be transported with a stream. " alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node2" href="$classImage.html" title="A portable image class with smart memory management. " alt="" coords="185,5,247,32"/>
+<area shape="rect" id="node4" href="$classMessage.html" title="Used to send messages across streams. " alt="" coords="177,56,255,83"/>
+<area shape="rect" id="node6" href="$classSparse.html" title="Sparse\&lt; T \&gt;" alt="" coords="164,107,268,133"/>
+<area shape="rect" id="node3" href="$classImageMutable.html" title="The mutable version Image. " alt="" coords="337,5,451,32"/>
+<area shape="rect" id="node5" href="$classMessageMutable.html" title="The mutable version of Message. " alt="" coords="329,56,459,83"/>
+<area shape="rect" id="node7" href="$classSparseMutable.html" title="SparseMutable\&lt; T \&gt;" alt="" coords="316,107,472,133"/>
+</map>

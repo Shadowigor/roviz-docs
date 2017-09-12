@@ -1,0 +1,7 @@
+<map id="AbstractItemInputOutputBase::data" name="AbstractItemInputOutputBase::data">
+<area shape="rect" id="node2" href="$classAbstractItemInputOutputBase.html#a1fdb77f431c1c3247fb20064c2f699be" title="Updates the scene position. Causes this objects position within the item scene to be updated..." alt="" coords="268,23,483,65"/>
+<area shape="rect" id="node3" href="$classAbstractItem.html#a5fb3c04dd601f8897dca7f989e77d898" title="Returns the graphical shape of the item&#39;s image. " alt="" coords="531,31,684,57"/>
+<area shape="rect" id="node4" href="$classAbstractItem.html#adeb9e000b768784f095cdae77dacc6e6" title="Adds an input to this item. " alt="" coords="738,5,909,32"/>
+<area shape="rect" id="node6" href="$classAbstractItem.html#ad3ac80497453fd6944626b4e52256cf9" title="Adds an output to this item. " alt="" coords="732,56,915,83"/>
+<area shape="rect" id="node5" href="$classRovizItemBaseDev.html#a5521cd85c33f53d9c560216e788b27a8" title="Show the &#39;Configure&#39; option in the context menu if the item has configs. " alt="" coords="963,23,1164,65"/>
+</map>

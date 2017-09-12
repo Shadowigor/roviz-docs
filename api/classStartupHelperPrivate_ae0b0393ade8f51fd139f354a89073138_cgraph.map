@@ -1,0 +1,4 @@
+<map id="StartupHelperPrivate::addSingletonHelper" name="StartupHelperPrivate::addSingletonHelper">
+<area shape="rect" id="node2" href="$classStartupHelperPrivate.html#a027135bbfd93be5f9dd590a83f2099fa" title="Registers the start and stop function at QApplication so that they will be called on appstart/appterm..." alt="" coords="432,5,591,47"/>
+<area shape="rect" id="node3" href="$classStartupHelperPrivate.html#a7b29ccec0da60356606f7c35be0a0eae" title="addComponentHelper adds a component to the list of &quot;tracked&quot; modules " alt="" coords="212,35,384,76"/>
+</map>

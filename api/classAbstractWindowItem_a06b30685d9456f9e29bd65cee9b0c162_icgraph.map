@@ -1,0 +1,5 @@
+<map id="AbstractWindowItem::allocateWindow" name="AbstractWindowItem::allocateWindow">
+<area shape="rect" id="node2" href="$classAbstractWindowItem.html#a2a9cc9689c66040366c66cb8fddc098f" title="This is a default implementation of a slot which opens this items window, if any. If the item is not ..." alt="" coords="212,39,371,80"/>
+<area shape="rect" id="node3" href="$classAbstractWindowItem.html#aaa4c52a54fe6eda7817069c6a6281d74" title="A simple default implementation of the mouseDoubleClickEvent. Override to do custom things (e..." alt="" coords="419,5,608,47"/>
+<area shape="rect" id="node4" href="$classAbstractWindowItem.html#a0165f134f3b85690016f527531abd122" title="This method is called with an empty QMenu whenever a contextmenu on the current item is requested..." alt="" coords="431,71,595,112"/>
+</map>
